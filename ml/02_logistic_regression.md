@@ -1,5 +1,6 @@
 # 逻辑回归
 
+- numpy手写一个logistic regression
 
 ```
 

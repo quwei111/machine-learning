@@ -1,5 +1,5 @@
 # 二分查找
-
+- lower bound/ upper bound
 
 ```
 def binary_search(key, nums):

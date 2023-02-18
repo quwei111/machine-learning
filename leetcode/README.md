@@ -1,17 +1,26 @@
 # Leetcode
 
-## 阶段1: 初步掌握考察的常见数据结构和算法，尤其是常见类型的模版
+- 先明确自己理解题意，并确认
+- 开始想人是如何做这个任务的
+- 转化为代码，用什么数据结构，甚么算法
+- test的过程
+- 复杂度分析
+
+解题
+- 想人工操作的方法
+- 想更简单，数量更少的情况
+- 想空间换时间的方法
+
+### 阶段1: 初步掌握考察的常见数据结构和算法，尤其是常见类型的模版
 - https://github.com/wangzheng0822/algo
 
 - 链表
     - 头部加dummy node 0，便于返回整个链表头节点
 
-## 阶段2: 拿到问题，首先还是从解决问题角度入手，然后从模板中提供线索。模版的基础上，不断强化练习。
+### 阶段2: 拿到问题，首先还是从解决问题角度入手，然后从模板中提供线索。模版的基础上，不断强化练习。
 - https://zhuanlan.zhihu.com/p/98065331
 
-## 阶段3: 真正融会贯通，结合问题交流、复杂度分析、头脑测试，刷题量达到满意要求
-
-
+### 阶段3: 真正融会贯通，结合问题交流、复杂度分析、头脑测试，刷题量达到满意要求
 
 
 ## 基础
@@ -48,3 +57,6 @@
 - [ ] [Distributed Systems - MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [ ] [Talent Plan | PingCAP University](https://university.pingcap.com/talent-plan/)
 - [ ] [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)
+
+## 参考
+- https://zhuanlan.zhihu.com/p/390570255
