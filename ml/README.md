@@ -7,3 +7,7 @@
 手写softmax的backpropagation
 给一个LSTM network的结构要你计算how many parameters
 convolution layer的output size怎么算? 写出公式
+
+
+- https://github.com/rasgointelligence/feature-engineering-tutorials
+- 

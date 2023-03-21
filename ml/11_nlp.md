@@ -17,3 +17,5 @@
 常用指标
 - ROUGE
 - BLEU
+
+key phrase generation

@@ -55,6 +55,7 @@
 - http://icyfenix.cn/
 - https://github.com/InterviewReady/system-design-resources
 - https://rajat19.github.io/system-design/pages/guide.html
+- https://time.geekbang.org/column/article/6458
 
 ### ML
 - Machine Learning Engineering by Andriy Burkov

@@ -45,3 +45,7 @@
 - w3schools.com/sql
 - selectstarsql.com
 - https://github.com/oleg-agapov/data-engineering-book/blob/master/book/2-beginner-path/2-2-sql-for-beginners/sql-1.md
+
+
+window function, self-join, case when, aggregate function
+rank

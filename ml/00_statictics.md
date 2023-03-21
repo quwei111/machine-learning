@@ -1,5 +1,7 @@
 # 统计
 
+P-value, correlation matrix, t-test, VIF, R2, adjusted R2，ANOVA，F-test，Null hypothesis testing
+
 ## z检验
 
 ## t检验

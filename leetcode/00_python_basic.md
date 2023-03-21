@@ -21,6 +21,7 @@
 - 字符串 ord(s[0])/ s[0].isdigit()
 - 两层循环中的break，break的是相应层的循环
 - 多个条件判断时，是否越界和是否符合条件可以写在一起。也就是有先后顺序的
+
 ```
 正确
 while s[l] == s[r] and l >= 0 and r < len(s)
@@ -213,6 +214,20 @@ def counting_sort(A, key=lambda x: x):
 
 counting_sort([2,5,3,0,2,3,3,4])
 ```
+
+### 148 Sort List
+
+### 56 Merge Intervals
+
+### 27 Remove elements
+
+### 179. Largest Number
+
+### 75 Sort Colors
+
+### 215 Kth Largest Element
+
+### 4 Median of Two Sorted Arrays
 
 ## 参考
 - https://github.com/wangzheng0822/algo/tree/master/python
