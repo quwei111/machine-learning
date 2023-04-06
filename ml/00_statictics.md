@@ -39,4 +39,4 @@ If given the above 20% p-value, the product manager still decides to launch this
 - [Udacity AB test](https://www.udacity.com/course/ab-testing--ud257)
 - [bittiger AB test](https://drive.google.com/file/d/15F2lpaW0wGU5WK9lR46ygUsBReYig_YE/view)
 - [Lets Python do AB testing analysis](https://github.com/tlentali/leab)
-- 
+- https://github.com/kojino/120-Data-Science-Interview-Questions

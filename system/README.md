@@ -8,6 +8,7 @@
 - DataSchema + Scale
 - Monitoring/Metrics
 
+
 ## 常见面试问题
 - Design a URL shortener (e.g. Bitly)
 - Design a social media website (e.g. Twitter)
@@ -41,6 +42,11 @@
 
 瓶颈，scale, tradeoff
 
+## 问题
+- How to do large scale batch processing
+- How to do model serving readiness
+- How to do model rollout
+
 ## Reference
 - Web Application and Software Architecture 101
 - Groking the system interview
@@ -56,6 +62,8 @@
 - https://github.com/InterviewReady/system-design-resources
 - https://rajat19.github.io/system-design/pages/guide.html
 - https://time.geekbang.org/column/article/6458
+- https://blog.bytebytego.com/?sort=top
+- https://soulmachine.gitbooks.io/system-design/content/cn/
 
 ### ML
 - Machine Learning Engineering by Andriy Burkov
@@ -65,3 +73,10 @@
 - https://github.com/khangich/machine-learning-interview
 
 - https://www.1point3acres.com/bbs/thread-901192-1-1.html
+- Grokking the Machine Learning Interview
+
+Youtube recommendation/doordash search box/auto suggestion
+
+
+## design doc
+- https://github.com/eugeneyan/ml-design-docs

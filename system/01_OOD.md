@@ -27,3 +27,6 @@ SD1可能会考察OOD，比系统设计更简单一些
 - http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa2/ood/index.htm
 - https://medium.com/javarevisited/top-10-object-oriented-analysis-and-design-interview-questions-and-problems-for-experienced-6c3a53b7cb26
 - https://github.com/nikhilagrwl07/System-Design/tree/master/src/main/java
+
+- https://github.com/ycwkatie/OOD-Object-Oriented-Design
+- https://rajat19.github.io/system-design/category/system-designs.html

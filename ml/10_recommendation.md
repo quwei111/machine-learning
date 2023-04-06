@@ -32,5 +32,5 @@ item: average_pooling和sum_pooling的区别，从反向传播角度看相当于
   - 无效曝光：返回、遮挡、 重复上报
 
 ## 参考
-
+- https://github.com/twitter/the-algorithm
 - https://github.com/tangxyw/RecSysPapers

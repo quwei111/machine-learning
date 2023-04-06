@@ -1,6 +1,7 @@
 # Awesome Machine Learning Interview
 
-机器学习工程师MLE、数据科学家DS、算法工程师面试资料
+该仓库记录了如何准备国外或外企的数据科学家、算法工程师面试
+申请的岗位为软件工程师-机器学习方向(Software engineer machine learning)，机器学习工程师(machine learning engineer)，数据科学家(data scientist)，应用科学家等(applied scientist)
 
 ## 算法
 - [Python基础](./leetcode/00_python_basic.md)
@@ -37,3 +38,4 @@
 
 ## 行为面试
 - [常见问题](./bq)
+
