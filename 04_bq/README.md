@@ -1,7 +1,7 @@
 # 行为面试Behavior question
 
 ## 基本态度
-- 说话自信大气，眼睛和肢体不要有多余的动作，professional, 有Leader该有的样子。而且不要我，是你们的损失，有这种气魄，但不要因此而傲气
+- 说话自信大气，眼睛和肢体不要有多余的动作，professional, 有Leader该有的样子。而且不要我，是你们的损失，有这种气魄，但不要因此傲气
 - 正常的面试官，其实也就是我们身边的人，是和我们谈笑风生的一样，不要有负担
 - 注重记录和录音
 - 注意面试官问题，他想要的答案是什么，一些关键字是什么. 不会的问题，也把能想到和思考的呈现出来即可，relax
@@ -51,12 +51,3 @@
 ## Reference
 - https://www.youtube.com/c/DanCroitor/videos
 - https://www.educative.io/courses/grokking-the-behavioral-interview
-
-
-
-
-https://www.1point3acres.com/bbs/thread-837688-1-1.html
-
-面试前应该做好哪些准备？ - 我在开水团做运筹的回答 - 知乎
-https://www.zhihu.com/question/307408397/answer/2551418634
-
