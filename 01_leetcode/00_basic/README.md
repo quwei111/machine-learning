@@ -1,13 +1,11 @@
-
 # Python 基础
 
-## 基础知识
+## Python基础知识
 - 垃圾回收机制gc
 - 全局锁GIL
 
 
 ## Python常用操作
-
 - 从列表list中找出某值a第一个匹配项的索引位置
 ```python
 list.index(a) 
@@ -25,7 +23,7 @@ list.insert(0, num),
 - 列表排序
 ```python
 l = sorted(l)
-l.sorted()
+l.sorted()  # inplace
 ```
 
 - 字典按value排序
@@ -45,7 +43,7 @@ del dict[key]
 
 - 个位是否为1
 ```python
-x%10==1 
+x % 10 == 1 
 ```
 
 - heapq 堆的操作
@@ -55,7 +53,8 @@ x%10==1
 
 - 链表循环内容涉及两个节点判断时
 ```python
-while head is not None and head.next is not None
+while head is not None and head.next is not None:
+    pass
 ```
 
 - 字符串前的空格 
@@ -273,7 +272,3 @@ def counting_sort(A, key=lambda x: x):
 
 counting_sort([2,5,3,0,2,3,3,4])
 ```
-
-
-## 参考
-- https://github.com/wangzheng0822/algo/tree/master/python

@@ -1,7 +1,6 @@
 # 线性回归
 
-https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/04/lecture-04.pdf
-http://dengcai.zjulearning.org.cn/Courses/ml/ppt/04_LinearRegression.pdf
+
 
 线性回归是最基础的学习方法，也是很多人的第一个机器学习算法。先熟悉一些基础概念
 所谓监督学习，就是需要有学习的素材-特征，也有学习的目标-label。当label是连续量时，被称为回归。
@@ -9,13 +8,15 @@ http://dengcai.zjulearning.org.cn/Courses/ml/ppt/04_LinearRegression.pdf
 
 ## 1.最小二乘法 （矩阵表达，几何意义）
 
-$y=w^Tx +b$
+$$ y=w^Tx +b $$
 
 
 
-$w,b=\mathop {argmin} _{w,b}Loss$
+$$ w,b=\mathop {argmin} _{w,b}Loss $$
 
-Loss: $L=\frac{1}{n}\sum_{i=1}^{n}{(y-\hat{y})^2}$
+Loss: 
+
+$$ L=\frac{1}{n}\sum_{i=1}^{n}{(y-\hat{y})^2} $$
 
 $$ L= (y-w^TX)^{T}(y-w^TX) $$
 
@@ -26,7 +27,7 @@ $$ \frac{\partial{L}}{\partial{w}}=2X^TXw-2X^Ty$$
 ## 2.最大似然
 最小二乘与最大似然的等价
 
-$w,b= argmax(logP(x|w))$
+$$ w,b= argmax(logP(x|w)) $$
 
 频率派与贝叶斯派，
 
@@ -41,7 +42,7 @@ $$ P(w|X)=\frac{P(X|W).P(w)}{P(X)} $$
 
 #### 几何解释
 #### MAP
-$w=argmax(P(w|X))=argmax(P(X|w).P(w))$
+$$ w=argmax(P(w|X))=argmax(P(X|w).P(w)) $$
 
 ### L2正则
 
@@ -124,3 +125,6 @@ if __name__ == "__main__":
 
 ## 5.场景优化
 
+## 参考
+- https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/04/lecture-04.pdf
+- http://dengcai.zjulearning.org.cn/Courses/ml/ppt/04_LinearRegression.pdf

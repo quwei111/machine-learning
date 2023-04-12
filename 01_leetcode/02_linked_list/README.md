@@ -1,5 +1,9 @@
 ## 链表
 
+- 链表
+    - 头部加dummy node 0，便于返回整个链表头节点
+
+
 Leetcode 206. Reverse Linked List
 Leetcode 876. Middle of the Linked List
 

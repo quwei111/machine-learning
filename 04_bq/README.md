@@ -1,5 +1,7 @@
 # 行为面试Behavior question
 
+面试考察的不单是技术能力，更是考察是否是未来值得合作的同事，因此行为面试不可小觑。
+
 ## 基本态度
 - 说话自信大气，眼睛和肢体不要有多余的动作，professional, 有Leader该有的样子。而且不要我，是你们的损失，有这种气魄，但不要因此傲气
 - 正常的面试官，其实也就是我们身边的人，是和我们谈笑风生的一样，不要有负担
@@ -31,11 +33,12 @@
     - 不要以自己的身份和地位去压别人，而是摆事实 讲道理
     - 就事论事，不要上升到人
     - 意识到自己的错误了 及时承认
-
+- describe a situation where you decided to step in to help a friend/teammate
+- describe a situation where you explore a new area
 - 怎么给一个完全没有ML背景的客户介绍相关技术概念
 
 - 跳槽原因
-    - - 提升技术深度和广度
+  - 提升技术深度和广度 
 
 ## Project
 - 里面的细节

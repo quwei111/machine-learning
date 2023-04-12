@@ -50,6 +50,7 @@
 - Groking the system interview
 - DDIA
 - CMU 15721: advance database
+- MIT 6.824
 - Tech blog: uber/ pinterests
 - https://www.techinterviewhandbook.org/system-design/
 - https://github.com/madd86/awesome-system-design

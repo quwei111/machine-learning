@@ -1,12 +1,11 @@
 # 面向对象设计OOD
 
 ## 背景
-SD1可能会考察OOD，比系统设计更简单一些
-
-考核关键是如何设计class，class的properties和methods定义好，同时掌握class的继承
+SD1岗位面试时可能会考察OOD，比系统设计更简单一些
+- 考核关键是如何设计class，class的properties和methods定义好，同时掌握class的继承
 
 ## 步骤
-- 找到core object，写出class和他的重点method- 
+- 找到core object，写出class和重点method
 
 
 ## 案例

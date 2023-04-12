@@ -1,11 +1,11 @@
 # 支持向量机
 
-## what's the difference between logistic refression and SVM
-- loss tyle, logistic loss for LR, hinge loss for SVM
+## what's the difference between logistic regression and SVM
+- loss type, logistic loss for LR, hinge loss for SVM
 - LR is parametric model (Bernouli distribution), SVM with RBF kernel is non-parametric model
 - For SVM, only support vectors will influence the model, and every sample will influence LR model
 - SVM with structural risk minimization with L2 norm naturally, LR use experimential risk minimization
-- SVM nomally use kernel function to solve the unlinear problem, LR not
+- SVM normally use kernel function to solve the unlinear problem, LR not
  
  ```
 

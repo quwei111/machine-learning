@@ -17,10 +17,25 @@
   
   * [单链表](01_leetcode/02_linked_list)
     * [203 移除链表元素](01_leetcode/02_linked_list/203_remove_element.md)
+  * [哈希表](01_leetcode/03_hash)
+    * [1 Two Sum](01_leetcode/03_hash/1_Two_Sum.md)
+  * [字符串](01_leetcode/04_string)
+  * [栈与队列](01_leetcode/05_stack_queue)
+  * [树](01_leetcode/06_tree)
+  * [深度优先](01_leetcode/07_dfs)
+  * [广度优先](01_leetcode/08_bfs)
+  * [动态规划](01_leetcode/09_dynamic_program)
+  * [贪心](01_leetcode/10_greedy)
+  * [前缀和](01_leetcode/11_prefix_sum)
+  * [SQL](01_leetcode/99_SQL)
 
 * [机器学习](02_ml)
   * [统计基础知识](02_ml/00_statictics.md)
   * [线性回归](02_ml/01_linear_regression.md)
+  * [逻辑回归](02_ml/02_logistic_regression.md)
+  * [支持向量机](02_ml/03_svm.md)
+  * [决策树](02_ml/04_tree.md)
+  * [深度学习](02_ml/05_dl.md)
 
 * [系统设计](03_system)
   * [面向对象设计](03_system/01_ood)
@@ -28,3 +43,4 @@
   * [机器学习系统设计](03_system/03_ml)
 
 * [行为面试](04_bq)
+  * [领导力法则](04_bq/01_leadership_principles.md)
