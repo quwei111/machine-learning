@@ -1,22 +1,3 @@
-# 列表
-
-- 二次遍历
-
-对于需要考虑后面信息的任务，经常需要二次遍历。第一次遍历得到
-
-
-## 链表
-
-Leetcode 206. Reverse Linked List
-Leetcode 876. Middle of the Linked List
-
-Leetcode 160. Intersection of Two Linked Lists
-Leetcode 141. Linked List Cycle (Linked List Cycle II)
-Leetcode 92. Reverse Linked List II
-Leetcode 328. Odd Even Linked List
-
-## 栈和队列
-
 Queue题目：
 Leetcode 225. Implement Stack using Queues
 Leetcode 346. Moving Average from Data Stream
@@ -36,16 +17,8 @@ Leetcode 1209. Remove All Adjacent Duplicates in String II
 Leetcode 1249. Minimum Remove to Make Valid Parentheses
 Leetcode 735. Asteroid Collision
 
-Hashmap/ Hashset题目：
-Leetcode 1. Two Sum
-Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
-Leetcode 128. Longest Consecutive Sequence
-Leetcode 73. Set Matrix Zeroes
-Leetcode 380. Insert Delete GetRandom O(1)
-Leetcode 49. Group Anagrams
-Leetcode 350. Intersection of Two Arrays II
-Leetcode 299. Bulls and Cows
-Leetcode 348 Design Tic-Tac-Toe
+
+
 
 Heap／Priority Queue题目：
 Leetcode 973. K Closest Points

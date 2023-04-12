@@ -1,6 +1,6 @@
 # 机器学习面试
 
-该仓库记录了如何准备国外算法工程师面试
+该仓库记录了如何准备算法工程师面试，尤其针对海外岗位
 
 - 岗位包括软件工程师-机器学习方向、机器学习工程师、数据科学家、应用科学家
 - 在线书籍 [https://tanlongxing-1.gitbook.io/ml-interview/](https://tanlongxing-1.gitbook.io/ml-interview/)
@@ -8,14 +8,14 @@
 ## 数据结构与算法
 - [Python基础](./01_leetcode/00_python_basic.md)
 - [数据结构与算法模版](./01_leetcode/python_template.md)
-- [二叉树](./01_leetcode/02_tree.md)
+- [二叉树](01_leetcode/06_tree/README.md)
 - [回溯](./01_leetcode/04_backtracking.md)
-- [深度优先搜索](./01_leetcode/05_dfs.md)
-- [广度优先搜索](./01_leetcode/06_bfs.md)
+- [深度优先搜索](01_leetcode/07_dfs/README.md)
+- [广度优先搜索](01_leetcode/08_bfs/README.md)
 - [二分查找](./01_leetcode/03_binary_search.md)
 - [双指针](./01_leetcode/04_two_pointer.md)
-- [动态规划](./01_leetcode/09_dynamic_pragram.md)
-- [贪心](./01_leetcode/10_greedy.md)
+- [动态规划](01_leetcode/09_dynamic_program/README.md)
+- [贪心](01_leetcode/10_greedy/README.md)
 
 
 ## 机器学习
@@ -40,4 +40,3 @@
 
 ## 行为面试
 - [常见问题](./04_bq)
-
