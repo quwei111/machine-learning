@@ -1,5 +1,5 @@
 Hashmap/ Hashset题目：
-Leetcode 1. Two Sum
+
 Leetcode 146. LRU Cache (Python中可以使用OrderedDict来代替)
 Leetcode 128. Longest Consecutive Sequence
 Leetcode 73. Set Matrix Zeroes

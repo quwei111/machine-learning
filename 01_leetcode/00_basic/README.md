@@ -6,20 +6,73 @@
 - 全局锁GIL
 
 
-## 常用操作
-- list.index(a) 从列表list中找出某个值a第一个匹配项的索引位置
-- list.pop(0) python中使用列表实现队列
-- list.insert(0, num), 往某个位置插入某个元素
-- 列表排序 l = sorted(l), l.sorted()
-- dict(sorted(x.items(), key=lambda item: item[1])) 字典按value排序
-- dict.get(key, default) 字典获得key值
-- del dict[key] 删除键值
-- x%10==1 个位是否为1
+## Python常用操作
+
+- 从列表list中找出某值a第一个匹配项的索引位置
+```python
+list.index(a) 
+```
+- python中使用列表实现队列
+```python
+list.pop(0)
+```
+
+- 往某个位置插入某个元素
+```python
+list.insert(0, num), 
+```
+
+- 列表排序
+```python
+l = sorted(l)
+l.sorted()
+```
+
+- 字典按value排序
+```python
+dict(sorted(x.items(), key=lambda item: item[1]))
+```
+
+- 字典获得key值
+```python
+dict.get(key, default) 
+```
+
+- 删除键值
+```python
+del dict[key]
+```
+
+- 个位是否为1
+```python
+x%10==1 
+```
+
 - heapq 堆的操作
-- while head is not None and head.next is not None, 链表循环内容涉及两个节点判断时
-- 字符串前的空格 s.strip()
-- 字符串 ord(s[0])/ s[0].isdigit()
+```python
+
+```
+
+- 链表循环内容涉及两个节点判断时
+```python
+while head is not None and head.next is not None
+```
+
+- 字符串前的空格 
+```python
+s.strip()
+```
+
+- 字符串 
+```python
+ord(s[0])/ s[0].isdigit()
+```
+
 - 两层循环中的break，break的是相应层的循环
+```python
+
+```
+
 - 多个条件判断时，是否越界和是否符合条件可以写在一起。也就是有先后顺序的
 
 ```
@@ -35,6 +88,7 @@ while l >= 0 and r < len(s) and s[l] == s[r]
 
 
 ###  冒泡排序
+
 - 记忆点：两层for循环，相邻比较
 ```python
 def bubble_sort(list):
@@ -51,6 +105,7 @@ def test_bubble():
 ```
 
 ### 插入排序
+
 算法导论第一个介绍的算法
 - 记忆点：算法导论中的扑克
 ```python
@@ -74,6 +129,7 @@ def insert_sort_rec(list,m):
     list[m],list[mmax]=list[mmax],list[m]
     insert_sort_rec(list,m-1)
 ```
+
 ### 选择排序
 ```python
 def selection_sort(list):
@@ -89,6 +145,7 @@ print(selection_sort([4,2,1,10,5,3,100]))
 
 
 ### 归并排序
+
 - 树的后续遍历
 ```python
 # merge sort
@@ -121,6 +178,7 @@ print(merge_sort([5,1,2,4,6,3]))
 ```
 
 ### 快速排序
+
 - 树的前序遍历
 ```python
 #quick sort
@@ -163,10 +221,11 @@ print(list)
 ```
 
 ### 堆排序
-```python
-#https://stackoverflow.com/questions/13979714/heap-sort-how-to-sort
 
-def max_heapify(list,end,i):
+```python
+# https://stackoverflow.com/questions/13979714/heap-sort-how-to-sort
+
+def max_heapify(list, end, i):
     l = 2 * i + 1
     r = 2 * (i + 1)
     max = i
@@ -215,19 +274,6 @@ def counting_sort(A, key=lambda x: x):
 counting_sort([2,5,3,0,2,3,3,4])
 ```
 
-### 148 Sort List
-
-### 56 Merge Intervals
-
-### 27 Remove elements
-
-### 179. Largest Number
-
-### 75 Sort Colors
-
-### 215 Kth Largest Element
-
-### 4 Median of Two Sorted Arrays
 
 ## 参考
 - https://github.com/wangzheng0822/algo/tree/master/python

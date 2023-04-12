@@ -79,7 +79,7 @@ Leetcode 454. 4Sum II
 Leetcode 277. Find the Celebrity
 Leetcode 11. Container With Most Water
 Leetcode 186 Reverse Words in a String II
-同向双指针：（个人觉得最难的一类题，可以参考下这里 TimothyL：Leetcode 同向双指针/滑动窗口类代码模板）
+
 Leetcode 283. Move Zeroes
 Leetcode 26. Remove Duplicate Numbers in Array
 Leetcode 395. Longest Substring with At Least K Repeating Characters
