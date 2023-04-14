@@ -2,7 +2,7 @@
 
 ## 常见问题
 - What is the difference between union and union all? where and having?
-     2). Table【in_app_purchase】:
+    2). Table【in_app_purchase】:
                       uid: unique user id.
                       timestamp: specific timestamp detailed to seconds.
                       purchase amount: the amount of a one-time purchase.

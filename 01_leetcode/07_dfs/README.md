@@ -77,29 +77,8 @@ DFS基本模板（需要记录路径，不需要返回值 and 不需要记录路
 除了遍历之外多数情况下时间复杂度是指数级别，一般是O(方案数×找到每个方案的时间复杂度)
 递归题目都可以用非递归迭代的方法写，但一般实现起来非常麻烦
 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
-Leetcode 543 Diameter of Binary Tree (分治)
-Leetcode 124 Binary Tree Maximum Path Sum (分治)
-Leetcode 226 Invert Binary Tree (分治)
-Leetcode 101 Symmetric Tree (回溯 or 分治)
-Leetcode 951 Flip Equivalent Binary Trees (分治)
-Leetcode 236 Lowest Common Ancestor of a Binary Tree (相似题：235、1650) (回溯 or 分治)
-Leetcode 105 Construct Binary Tree from Preorder and Inorder Traversal (分治)
-Leetcode 104 Maximum Depth of Binary Tree (回溯 or 分治)
-Leetcode 987 Vertical Order Traversal of a Binary Tree
-Leetcode 1485 Clone Binary Tree With Random Pointer
-Leetcode 572 Subtree of Another Tree (分治)
-Leetcode 863 All Nodes Distance K in Binary Tree
-Leetcode 1110 Delete Nodes And Return Forest (分治)
-二叉搜索树（BST）：BST特征：中序遍历为单调递增的二叉树，换句话说，根节点的值比左子树任意节点值都大，比右子树任意节点值都小，增删查改均为O（h）复杂度，h为树的高度；注意不是所有的BST题目都需要递归，有的题目只需要while循环即可
-Leetcode 230 Kth Smallest element in a BST
-Leetcode 98 Validate Binary Search Tree
-Leetcode 270 Cloest Binary Search Tree Value
-Leetcode 235 Lowest Common Ancestor of a Binary Search Tree
-Leetcode 669 Trim a Binary Search Tree (分治)
-Leetcode 700 Search in a Binary Search Tree
-Leetcode 108 Convert Sorted Array to Binary Search Tree (分治)
-Leetcode 333 Largest BST Subtree (与98类似) (分治)
-Leetcode 285 Inorder Successor in BST (I, II)
+
+
 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
 Leetcode 341 Flatten Nested List Iterator (339 364)
 Leetcode 394 Decode String

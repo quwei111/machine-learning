@@ -26,6 +26,20 @@ l = sorted(l)
 l.sorted()  # inplace
 ```
 
+- 定义二维列表
+```python
+matrix = [[0 for _ in range(col)] for _ in range(row)]
+matric = [[0]*col for _ in range(row) ]
+
+# 错误
+[[0] * col] * row
+```
+
+- 二维列表转置
+```python
+
+```
+
 - 字典按value排序
 ```python
 dict(sorted(x.items(), key=lambda item: item[1]))
@@ -252,6 +266,10 @@ print(list)
 ```
 
 ### 拓扑排序
+```python
+# https://zh.wikipedia.org/wiki/%E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F
+
+```
 
 
 ### 计数排序
