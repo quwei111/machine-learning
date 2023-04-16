@@ -1,4 +1,5 @@
 # 推荐系统
+- how to scale
 
 ## Bias
 - selection bias

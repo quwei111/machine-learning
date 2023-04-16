@@ -11,8 +11,8 @@
     * [215 Kth Largest Element](01_leetcode/00_basic/215_Kth_Largest_Element.md)
     * [4 Median of Two Sorted Arrays](01_leetcode/00_basic/4_Median_of_Two_Sorted_Arrays.md)
 
-  * [列表](01_leetcode/01_array)    
-    * [27 移除元素](01_leetcode/01_array/27_Remove_Element.md)
+  * [列表](01_leetcode/01_array)
+    * [27. Remove Element](01_leetcode/01_array/27_Remove_Element.md)
     * [977. Squares of a Sorted Array](01_leetcode/01_array/977.Squares%20of%20a%20Sorted%20Array.md)
     * [59. Spiral Matrix II](01_leetcode/01_array/59.%20Spiral%20Matrix%20II.md)
     
@@ -42,9 +42,10 @@
     * [1658 Minimum Operations to Reduce X to Zero](01_leetcode/01_two_pointers/1658%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.md)
 
   * [二分查找](01_leetcode/01_binary_search)
-    * [704 二分查找](01_leetcode/01_binary_search/704_Binary_Search.md)
+    * [704 二分查找](01_leetcode/01_binary_search/704. Binary Search.md)
     * [34. Find First and Last Position of Element in Sorted Array](01_leetcode/01_binary_search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
     * [33. Search in Rotated Sorted Array](01_leetcode/01_binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+    * [81. Search in Rotated Sorted Array II](01_leetcode/01_binary_search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)
     * [1095. Find in Mountain Array](01_leetcode/01_binary_search/1095.%20Find%20in%20Mountain%20Array.md)
     * [278. First Bad Version](01_leetcode/01_binary_search/278.%20First%20Bad%20Version.md)
     * [240. Search a 2D Matrix II](01_leetcode/01_binary_search/240.%20Search%20a%202D%20Matrix%20II.md)
@@ -69,6 +70,7 @@
     * [141. Linked List Cycle (Linked List Cycle II)](01_leetcode/02_linked_list/141.%20Linked%20List%20Cycle%20(Linked%20List%20Cycle%20II).md)
     * [328. Odd Even Linked List](01_leetcode/02_linked_list/328.%20Odd%20Even%20Linked%20List.md)
     * [142. Linked List Cycle II](01_leetcode/02_linked_list/142.%20Linked%20List%20Cycle%20II.md)
+
   * [哈希表](01_leetcode/03_hash)
     * [1 Two Sum](01_leetcode/03_hash/1_Two_Sum.md)
     * [146. LRU Cache](01_leetcode/03_hash/146.%20LRU%20Cache.md)
@@ -79,7 +81,9 @@
     * [350. Intersection of Two Arrays II](01_leetcode/03_hash/350.%20Intersection%20of%20Two%20Arrays%20II.md)
     * [299. Bulls and Cows](01_leetcode/03_hash/299.%20Bulls%20and%20Cows.md)
     * [348 Design Tic-Tac-Toe](01_leetcode/03_hash/348%20Design%20Tic-Tac-Toe.md)
+
   * [字符串](01_leetcode/04_string)
+  
   * [栈与队列](01_leetcode/05_stack_queue)
     * [225. Implement Stack using Queues](01_leetcode/05_stack_queue/225.%20Implement%20Stack%20using%20Queues.md)
     * [346. Moving Average from Data Stream](01_leetcode/05_stack_queue/346.%20Moving%20Average%20from%20Data%20Stream.md)
@@ -95,7 +99,9 @@
     * [1472. Design Browser History](01_leetcode/05_stack_queue/1472.%20Design%20Browser%20History.md)
     * [1209. Remove All Adjacent Duplicates in String II](01_leetcode/05_stack_queue/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)
     * [1249. Minimum Remove to Make Valid Parentheses](01_leetcode/05_stack_queue/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
+  
   * [优先队列/堆](01_leetcode/06_heap)
+  
   * [深度优先](01_leetcode/07_dfs)
     * [543 Diameter of Binary Tree](01_leetcode/07_dfs/543%20Diameter%20of%20Binary%20Tree.md)
     * [124 Binary Tree Maximum Path Sum](01_leetcode/07_dfs/124%20Binary%20Tree%20Maximum%20Path%20Sum.md)
@@ -118,6 +124,7 @@
     * [108 Convert Sorted Array to Binary Search Tree](01_leetcode/07_dfs/108%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
     * [333 Largest BST Subtree](01_leetcode/07_dfs/333%20Largest%20BST%20Subtree.md)
     * [285 Inorder Successor in BST (I, II)](01_leetcode/07_dfs/285%20Inorder%20Successor%20in%20BST%20(I,%20II).md)
+  
   * [广度优先](01_leetcode/08_bfs)
     * [127. Word Ladder](01_leetcode/08_bfs/127.%20Word%20Ladder.md)
     * [102 Binary Tree Level Order Traversal](01_leetcode/08_bfs/102%20Binary%20Tree%20Level%20Order%20Traversal.md)
@@ -140,9 +147,13 @@
     * [269 Alien Dictionary](01_leetcode/08_bfs/269%20Alien%20Dictionary.md)
     * [310 Minimum Height Trees](01_leetcode/08_bfs/310%20Minimum%20Height%20Trees.md)
     * [366 Find Leaves of Binary Tree](01_leetcode/08_bfs/366%20Find%20Leaves%20of%20Binary%20Tree.md)
+  
   * [动态规划](01_leetcode/09_dynamic_program)
+    * 
   * [贪心](01_leetcode/10_greedy)
+    * 
   * [前缀和](01_leetcode/11_prefix_sum)
+    * 
   * [SQL](01_leetcode/99_SQL)
 
 * [机器学习](02_ml)

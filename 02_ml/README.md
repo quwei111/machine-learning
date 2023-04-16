@@ -7,9 +7,15 @@
   - 手写KNN
   - 手写K-means
   - 手写softmax的backpropagation
+  - 手写AUC
+  - 手写SGD
 - 延伸
   - 给一个LSTM network的结构，计算how many parameters
   - convolution layer的output size怎么算? 写出公式
   - 设计一个sparse matrix (包括加减乘等运算)
 - 八股文
-  - 怎么解决nn的overfitting
+  - 怎么解决nn的overfitting/underfitting
+  - 优化器，如何选择优化器
+  - 数据收集
+  - 模型选择
+  - 推荐，scale\abtesting\trouble shooting
