@@ -25,7 +25,7 @@ P-value, correlation matrix, t-test, VIF, R2, adjusted R2，ANOVA，F-test，Nul
 - When do you use T-test instead of Z-test? List some differences between these two.
 - Dice problem-1: How will you test if a coin is fair or not? How will you design the process(有时会要求编程实现)? what test would you use?
 - Dice problem-2: How to simulate a fair coin with one unfair coin?
-- 3 door questions. (自行google吧，经典题之一)
+- 3 door questions.
 - Bayes Questions:  Tom takes a cancer test and the test is advertised as being 99% accurate: if you have cancer you will test positive 99% of the time, and if you don't have cancer, you will test negative 99% of the time. If 1% of all people have cancer and Tom tests positive, what is the prob that Tom has the disease? (非常经典的cancer screen的题，做会这一道，其他都没问题了)
 - How do you calculate the sample size for an A/B testing?
 - If after running an A/B testing you find the fact that the desired metric(i.e, Click Through Rate) is going up while another metric is decreasing(i.e., Clicks). How would you make a decision?

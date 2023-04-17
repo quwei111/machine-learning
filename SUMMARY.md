@@ -10,6 +10,7 @@
     * [75 Sort Colors](01_leetcode/00_basic/75_Sort_Colors)
     * [215 Kth Largest Element](01_leetcode/00_basic/215_Kth_Largest_Element.md)
     * [4 Median of Two Sorted Arrays](01_leetcode/00_basic/4_Median_of_Two_Sorted_Arrays.md)
+    * [347. Top K Frequent Elements](01_leetcode/00_basic/347.%20Top%20K%20Frequent%20Elements.md)
 
   * [列表](01_leetcode/01_array)
     * [27. Remove Element](01_leetcode/01_array/27_Remove_Element.md)
@@ -42,7 +43,7 @@
     * [1658 Minimum Operations to Reduce X to Zero](01_leetcode/01_two_pointers/1658%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.md)
 
   * [二分查找](01_leetcode/01_binary_search)
-    * [704 二分查找](01_leetcode/01_binary_search/704. Binary Search.md)
+    * [704. Binary Search](01_leetcode/01_binary_search/704.%20Binary%20Search.md)
     * [34. Find First and Last Position of Element in Sorted Array](01_leetcode/01_binary_search/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
     * [33. Search in Rotated Sorted Array](01_leetcode/01_binary_search/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
     * [81. Search in Rotated Sorted Array II](01_leetcode/01_binary_search/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.md)

@@ -1,6 +1,8 @@
 # 深度优先搜索
 
-# recursive and nonrecursive
+主函数用于遍历所有的搜索位置，判断是否可以开始搜索，如果 可以即在辅函数进行搜索。辅函数则负责深度优先搜索的递归调用
+
+## recursive and nonrecursive
 
 graph1 = {
     'A': ['B', 'S'],

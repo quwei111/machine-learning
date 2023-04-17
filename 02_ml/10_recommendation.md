@@ -1,5 +1,6 @@
 # 推荐系统
 - how to scale
+- serve personalized recommendations at a low latency
 
 ## Bias
 - selection bias

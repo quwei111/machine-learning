@@ -3,6 +3,8 @@
 ## 熵
 entropy公式：
 
+- 信息增益
+
 ## 基尼系数
 
 
@@ -27,3 +29,12 @@ class Decision_node():
 class Decision_tree():
     pass
 ```
+
+## xgboost
+- 如何并行
+- 如何快速分裂
+- 分类节点的依据
+
+## lightgbm
+
+## catboost

@@ -7,7 +7,8 @@
 - SVM with structural risk minimization with L2 norm naturally, LR use experimential risk minimization
 - SVM normally use kernel function to solve the unlinear problem, LR not
  
- ```
+
+```
 
 '''Support vector machine is a classical classification method,
 Learning policy is to maximum the margin solved by the convex quadratic programming'''
