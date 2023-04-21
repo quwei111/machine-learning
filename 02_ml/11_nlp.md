@@ -11,6 +11,8 @@
 
 
 ## 问答
+- 为啥文本不用batch norm要用layer norm
+
 
 ## 文本摘要 Text summarization
 

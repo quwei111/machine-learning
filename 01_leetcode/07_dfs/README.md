@@ -81,8 +81,35 @@ DFS基本模板（需要记录路径，不需要返回值 and 不需要记录路
 基于树的DFS：需要记住递归写前序中序后序遍历二叉树的模板
 
 
+## 矩阵的DFS
+
+四个方向初始化和遍历
+```python
+self.directions = [(1,0),(-1,0),(0,1),(0,-1)]
+
+for direction in self.directions:
+    x, y = i + direction[0], j + direction[1]
+```
+
+DFS辅助函数
+```python
+def dfs(self, i, j, matrix, visited, m, n):
+    if visited: 
+        # return or return a value
+    for dir in self.directions:
+        x, y = i + direction[0], j + direction[1]
+        if x < 0 or x >= m or y < 0 or y >= n or matrix[x][y] <= matrix[i][j] (or a condition you want to skip this round):
+            continue
+        # do something like
+        visited[i][j] = True
+        # explore the next level like
+        self.dfs(x, y, matrix, visited, m, n)
+```
+
+
+
 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-Leetcode 341 Flatten Nested List Iterator (339 364)
+Leetcode  (339 364)
 Leetcode 394 Decode String
 Leetcode 51 N-Queens (I II基本相同)
 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
@@ -99,6 +126,7 @@ Leetcode 1274 Number of Ships in a Rectangle
 Leetcode 1376 Time Needed to Inform All Employees
 Leetcode 694 Number of Distinct Islands
 Leetcode 131 Palindrome Partitioning
+
 基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
 Leetcode 17 Letter Combinations of a Phone Number
 Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
@@ -107,6 +135,7 @@ Leetcode 46 Permutation (I, II 重点在于如何去重)
 Leetcode 77 Combinations (I, II 重点在于如何去重)
 Leetcode 698 Partition to K Equal Sum Subsets
 Leetcode 526 Beautiful Arrangement (similar to 46)
+
 记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
 Leetcode 139 Word Break II
 Leetcode 72 Edit Distance
@@ -121,3 +150,15 @@ Leetcode 329 Longest Increasing Path in a Matrix
 
 
 # 回溯 backtracking
+需要记录节点状态的深度优先搜索。记录节点状态的原因是
+
+N叉树
+
+回溯中递归函数的项：
+- paths 路径，已经做过的选择
+- 选择列表，当期可以做出的选择
+- res 结果列表
+
+每个节点既有路径也有选择。
+
+[Backtrack Summary: General Solution for 10 Questions](https://leetcode.com/problems/permutations/solutions/18284/backtrack-summary-general-solution-for-10-questions-python-combination-sum-subsets-permutation-palindrome/)

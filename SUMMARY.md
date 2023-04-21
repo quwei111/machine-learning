@@ -103,7 +103,7 @@
   
   * [优先队列/堆](01_leetcode/06_heap)
   
-  * [深度优先](01_leetcode/07_dfs)
+  * [深度优先DFS](01_leetcode/07_dfs)
     * [543 Diameter of Binary Tree](01_leetcode/07_dfs/543%20Diameter%20of%20Binary%20Tree.md)
     * [124 Binary Tree Maximum Path Sum](01_leetcode/07_dfs/124%20Binary%20Tree%20Maximum%20Path%20Sum.md)
     * [226 Invert Binary Tree](01_leetcode/07_dfs/226%20Invert%20Binary%20Tree.md)
@@ -118,16 +118,20 @@
     * [1110 Delete Nodes And Return Forest](01_leetcode/07_dfs/1110%20Delete%20Nodes%20And%20Return%20Forest.md)
     * [230 Kth Smallest element in a BST](01_leetcode/07_dfs/230%20Kth%20Smallest%20element%20in%20a%20BST.md)
     * [98 Validate Binary Search Tree](01_leetcode/07_dfs/98%20Validate%20Binary%20Search%20Tree.md)
-    * [270 Cloest Binary Search Tree Value](01_leetcode/07_dfs/270%20Cloest%20Binary%20Search%20Tree%20Value.md)
+    * [270 Closest Binary Search Tree Value](01_leetcode/07_dfs/270%20Closest%20Binary%20Search%20Tree%20Value.md)
     * [235 Lowest Common Ancestor of a Binary Search Tree](01_leetcode/07_dfs/235%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
     * [669 Trim a Binary Search Tree](01_leetcode/07_dfs/669%20Trim%20a%20Binary%20Search%20Tree.md)
     * [700 Search in a Binary Search Tree](01_leetcode/07_dfs/700%20Search%20in%20a%20Binary%20Search%20Tree.md)
     * [108 Convert Sorted Array to Binary Search Tree](01_leetcode/07_dfs/108%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
     * [333 Largest BST Subtree](01_leetcode/07_dfs/333%20Largest%20BST%20Subtree.md)
     * [285 Inorder Successor in BST (I, II)](01_leetcode/07_dfs/285%20Inorder%20Successor%20in%20BST%20(I,%20II).md)
+    * [695. Max Area of Island](01_leetcode/07_dfs/695.%20Max%20Area%20of%20Island.md)    
+    * [547. Number of Provinces](01_leetcode/07_dfs/547.%20Number%20of%20Provinces.md)
+    * [341 Flatten Nested List Iterator](01_leetcode/07_dfs/341%20Flatten%20Nested%20List%20Iterator.md)
   
-  * [广度优先](01_leetcode/08_bfs)
+  * [广度优先BFS](01_leetcode/08_bfs)
     * [127. Word Ladder](01_leetcode/08_bfs/127.%20Word%20Ladder.md)
+    * [934. Shortest Bridge](01_leetcode/08_bfs/934.%20Shortest%20Bridge.md)
     * [102 Binary Tree Level Order Traversal](01_leetcode/08_bfs/102%20Binary%20Tree%20Level%20Order%20Traversal.md)
     * [103 Binary Tree Zigzag Level Order Traversal](01_leetcode/08_bfs/103%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md)
     * [297 Serialize and Deserialize Binary Tree](01_leetcode/08_bfs/297%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
@@ -156,6 +160,7 @@
   * [前缀和](01_leetcode/11_prefix_sum)
     * 
   * [SQL](01_leetcode/99_SQL)
+    * 
 
 * [机器学习](02_ml)
   * [统计基础知识](02_ml/00_statictics.md)
