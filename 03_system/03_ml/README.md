@@ -36,3 +36,7 @@ MT for 1000 languages
 NLLB
 Monitoring, failure tolerance, updating (below)
 Auto ML (soft: HP tuning, hard: arch search (NAS))
+
+
+## design doc
+- https://github.com/eugeneyan/ml-design-docs

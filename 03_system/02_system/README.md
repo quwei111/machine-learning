@@ -65,6 +65,3 @@
 - https://time.geekbang.org/column/article/6458
 - https://blog.bytebytego.com/?sort=top
 - https://soulmachine.gitbooks.io/system-design/content/cn/
-
-## design doc
-- https://github.com/eugeneyan/ml-design-docs

@@ -80,5 +80,7 @@ https://www.zhihu.com/question/269698662/answer/350806067
 
 ## 问答
 - 为什么逻辑回归不用mse做损失函数
+
 [本质是分布不同；公式推导发现容易导致梯度消失，很大的话梯度有一项会趋于0；陷入局部最优](https://zhuanlan.zhihu.com/p/453411383)
+
 - 

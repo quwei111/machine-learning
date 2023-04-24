@@ -77,6 +77,7 @@ s.strip()
 ```
 
 - 字符串 
+ord: 
 ```python
 ord(s[0])/ s[0].isdigit()
 ```
@@ -266,6 +267,8 @@ print(list)
 ```
 
 ### 拓扑排序
+拓扑排序也可以被看成是[广度优先搜索](../08_bfs/README.md)的一种情况
+
 ```python
 # https://zh.wikipedia.org/wiki/%E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F
 
