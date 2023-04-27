@@ -20,15 +20,6 @@ entropy公式：
 
 
 
-```
-import numpy as np
-
-class Decision_node():
-    pass
-
-class Decision_tree():
-    pass
-```
 
 ## xgboost
 - 如何并行
@@ -38,3 +29,19 @@ class Decision_tree():
 ## lightgbm
 
 ## catboost
+
+
+## 代码
+
+Decision Tree
+
+
+```
+import numpy as np
+
+class Decision_node():
+    pass
+
+class Decision_tree():
+    pass
+```

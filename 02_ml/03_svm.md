@@ -8,6 +8,8 @@
 - SVM normally use kernel function to solve the unlinear problem, LR not
  
 
+## 代码
+
 ```
 
 '''Support vector machine is a classical classification method,

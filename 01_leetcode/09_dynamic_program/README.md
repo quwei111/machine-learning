@@ -21,16 +21,7 @@
 
 记忆化搜索（DFS + Memoization Search）
 
-Leetcode 139 Word Break II
-Leetcode 72 Edit Distance
-Leetcode 377 Combination Sum IV
-Leetcode 1235 Maximum Profit in Job Scheduling
-Leetcode 1335 Minimum Difficulty of a Job Schedule
-Leetcode 1216 Valid Palindrome III
-Leetcode 97 Interleaving String
-Leetcode 472 Concatenated Words
-Leetcode 403 Frog Jump
-Leetcode 329 Longest Increasing Path in a Matrix
+
 
 
 这里指的是用for循环方式的动态规划，非Memoization Search方式。DP可以在多项式时间复杂度内解决DFS需要指数级别的问题。常见的题目包括找最大最小，找可行性，找总方案数等，一般结果是一个Integer或者Boolean

@@ -84,6 +84,12 @@
     * [348 Design Tic-Tac-Toe](01_leetcode/03_hash/348%20Design%20Tic-Tac-Toe.md)
 
   * [字符串](01_leetcode/04_string)
+    * [242. Valid Anagram](01_leetcode/04_string/242.%20Valid%20Anagram.md)
+    * [205. Isomorphic Strings](01_leetcode/04_string/205.%20Isomorphic%20Strings.md)
+    * [647. Palindromic Substrings](01_leetcode/04_string/647.%20Palindromic%20Substrings.md)
+    * [696. Count Binary Substrings](01_leetcode/04_string/696.%20Count%20Binary%20Substrings.md)
+    * [227. Basic Calculator II](01_leetcode/04_string/227.%20Basic%20Calculator%20II.md)
+    * [28. Find the Index of the First Occurrence in a String](01_leetcode/04_string/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
   
   * [栈与队列](01_leetcode/05_stack_queue)
     * [225. Implement Stack using Queues](01_leetcode/05_stack_queue/225.%20Implement%20Stack%20using%20Queues.md)
@@ -102,6 +108,18 @@
     * [1249. Minimum Remove to Make Valid Parentheses](01_leetcode/05_stack_queue/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
   
   * [优先队列/堆](01_leetcode/06_heap)
+    * [973. K Closest Points](01_leetcode/06_heap/973.%20K%20Closest%20Points.md)
+    * [347. Top k Largest Elements](01_leetcode/06_heap/347.%20Top%20k%20Largest%20Elements.md)
+    * [23. Merge K Sorted Lists](01_leetcode/06_heap/23.%20Merge%20K%20Sorted%20Lists.md)
+    * [264. Ugly Number II](01_leetcode/06_heap/264.%20Ugly%20Number%20II.md)
+    * [1086. High Five](01_leetcode/06_heap/1086.%20High%20Five.md)
+    * [88. Merge Sorted Arrays](01_leetcode/06_heap/88.%20Merge%20Sorted%20Arrays.md)
+    * [692. Top K Frequent Words](01_leetcode/06_heap/692.%20Top%20K%20Frequent%20Words.md)
+    * [378. Kth Smallest Element in a Sorted Matrix](01_leetcode/06_heap/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.md)
+    * [295. Find Median from Data Stream](01_leetcode/06_heap/295.%20Find%20Median%20from%20Data%20Stream.md)
+    * [767. Reorganize String](01_leetcode/06_heap/767.%20Reorganize%20String.md)
+    * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](01_leetcode/06_heap/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
+    * [895. Maximum Frequency Stack](01_leetcode/06_heap/895.%20Maximum%20Frequency%20Stack.md)
   
   * [深度优先DFS](01_leetcode/07_dfs)
     * [543 Diameter of Binary Tree](01_leetcode/07_dfs/543%20Diameter%20of%20Binary%20Tree.md)
@@ -154,7 +172,16 @@
     * [366 Find Leaves of Binary Tree](01_leetcode/08_bfs/366%20Find%20Leaves%20of%20Binary%20Tree.md)
   
   * [动态规划](01_leetcode/09_dynamic_program)
-    * 
+    * [139 Word Break II](01_leetcode/09_dynamic_program/139%20Word%20Break%20II.md)
+    * [72 Edit Distance]()
+    * [377 Combination Sum IV]()
+    * [1235 Maximum Profit in Job Scheduling]()
+    * [1335 Minimum Difficulty of a Job Schedule]()
+    * [1216 Valid Palindrome III]()
+    * [97 Interleaving String]()
+    * [472 Concatenated Words]()
+    * [403 Frog Jump]()
+    * [329 Longest Increasing Path in a Matrix]()
   * [贪心](01_leetcode/10_greedy)
     * 
   * [前缀和](01_leetcode/11_prefix_sum)
