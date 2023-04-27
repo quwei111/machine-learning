@@ -97,6 +97,7 @@ while s[l] == s[r] and l >= 0 and r < len(s)
 while l >= 0 and r < len(s) and s[l] == s[r]
 ```
 
+- for循环：提前已知遍历的所有元素；while循环：根据循环过程来决定所有遍历元素
 
 ## 排序
 

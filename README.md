@@ -6,8 +6,8 @@
 - 在线书籍 [https://longxingtan.gitbook.io/ml-interview/](https://longxingtan.gitbook.io/ml-interview/)
 
 ## CS自学指南
-- https://github.com/PKUFlyingPig/cs-self-learning
-- https://github.com/conanhujinming/comments-for-awesome-courses
+- [https://github.com/PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+- [https://github.com/conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)
 
 ## Acknowledgements 
 - 感谢分享知识与面经的每一个人

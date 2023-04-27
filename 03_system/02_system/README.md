@@ -46,6 +46,7 @@
 - How to do large scale batch processing
 - How to do model serving readiness
 - How to do model rollout
+- 两个service要互相发消息，怎么解决
 
 ## Reference
 - Web Application and Software Architecture 101

@@ -7,7 +7,7 @@
     * [148 Sort List](01_leetcode/00_basic/148_sort_list.md)
     * [56 Merge Intervals](01_leetcode/00_basic/56_Merge_Intervals.md)
     * [179 Largest Number](01_leetcode/00_basic/179_Largest_Number.md)
-    * [75 Sort Colors](01_leetcode/00_basic/75_Sort_Colors)
+    * [75 Sort Colors](01_leetcode/00_basic/75_Sort_Colors.md)
     * [215 Kth Largest Element](01_leetcode/00_basic/215_Kth_Largest_Element.md)
     * [4 Median of Two Sorted Arrays](01_leetcode/00_basic/4_Median_of_Two_Sorted_Arrays.md)
     * [347. Top K Frequent Elements](01_leetcode/00_basic/347.%20Top%20K%20Frequent%20Elements.md)
