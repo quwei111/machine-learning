@@ -10,8 +10,8 @@
 
 ## 代码
 
-```
 
+```
 '''Support vector machine is a classical classification method,
 Learning policy is to maximum the margin solved by the convex quadratic programming'''
 

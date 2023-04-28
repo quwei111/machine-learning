@@ -39,4 +39,4 @@ Auto ML (soft: HP tuning, hard: arch search (NAS))
 
 
 ## design doc
-- https://github.com/eugeneyan/ml-design-docs
+- [https://github.com/eugeneyan/ml-design-docs](https://github.com/eugeneyan/ml-design-docs)
