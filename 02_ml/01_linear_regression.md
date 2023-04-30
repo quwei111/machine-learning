@@ -132,6 +132,10 @@ if __name__ == "__main__":
 
 使用梯度下降优化的模型，归一化容易更快通过梯度下降找到最优解。包括线性回归、逻辑回归、支持向量机、神经网络。
 
+- 如何判断是否该用线性回归模型
+
+检查预测值与真实值的residual残差是否为高斯分布
+
 ## 参考
 - https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/04/lecture-04.pdf
 - http://dengcai.zjulearning.org.cn/Courses/ml/ppt/04_LinearRegression.pdf

@@ -12,6 +12,7 @@
 
 ## 问答
 - 为啥文本不用batch norm要用layer norm
+- transformer计算kvq的含义
 
 
 ## 文本摘要 Text summarization

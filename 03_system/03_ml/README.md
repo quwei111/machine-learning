@@ -1,8 +1,13 @@
+# 机器学习系统设计
 
+## 场景
+- **design youtube violent content detection system**
+
+## follow-up问题
 - solution
 - how to scale
 
-
+## 参考
 
 - Machine Learning Engineering by Andriy Burkov
 - https://github.com/shibuiwilliam/ml-system-in-actions
