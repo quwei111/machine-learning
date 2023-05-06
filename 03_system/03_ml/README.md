@@ -3,17 +3,23 @@
 ## 场景
 - **design youtube violent content detection system**
 
+focus
+- improve engagement on a feed
+- improve customer churn
+- return items from search engine query
+
 ## follow-up问题
 - solution
 - how to scale
 
-## 参考
 
+## 参考
+- https://github.com/khangich/machine-learning-interview
 - Machine Learning Engineering by Andriy Burkov
 - https://github.com/shibuiwilliam/ml-system-in-actions
 - https://github.com/mercari/ml-system-design-pattern
 - https://github.com/chiphuyen/machine-learning-systems-design
-- https://github.com/khangich/machine-learning-interview
+https://github.com/ibragim-bad/machine-learning-design-primer
 
 - https://www.1point3acres.com/bbs/thread-901192-1-1.html
 - Grokking the Machine Learning Interview

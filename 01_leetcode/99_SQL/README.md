@@ -1,5 +1,8 @@
 
 
+- row number
+- explode
+
 ## 常见问题
 - What is the difference between union and union all? where and having?
     2). Table【in_app_purchase】:

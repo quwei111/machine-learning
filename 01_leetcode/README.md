@@ -18,8 +18,13 @@
 - 写完代码后，进行test的过程
 - 给出复杂度分析
 
+## 和算法强相关的技术
+- rate limiter
+- 不同的cache机制
+- geo data (quad tree)
+- 文本搜索提示 (trie)
 
-参考
+## 参考
 - [https://zhuanlan.zhihu.com/p/349940945](https://zhuanlan.zhihu.com/p/349940945)
 
 
