@@ -48,6 +48,7 @@ NLLB
 Monitoring, failure tolerance, updating (below)
 Auto ML (soft: HP tuning, hard: arch search (NAS))
 
+https://www.youtube.com/c/BitTiger
 
 ## design doc
 - [https://github.com/eugeneyan/ml-design-docs](https://github.com/eugeneyan/ml-design-docs)

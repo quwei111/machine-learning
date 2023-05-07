@@ -1,8 +1,9 @@
-Leetcode 721 Accounts Merge
-Leetcode 547 Number of Provinces
-Leetcode 737 Sentence Similarity II
-Leetcode 305 Number of Islands II
+Leetcode 
+Leetcode 
+Leetcode 
+Leetcode 
 
+- 某些题可以用DFS/BFS，DFS/BFS可能会有找不到某些点，只能用union find
 
 ```python
 class DSU:

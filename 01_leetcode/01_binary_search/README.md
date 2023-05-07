@@ -1,7 +1,18 @@
 # 二分查找
 
-- 排序
-- 对于一个长度为 O(n) 的数组，二分查找的时间复 杂度为 O(log n)
+
+- 排序是前提
+- 对于一个长度为 O(n) 的数组，二分查找的时间复杂度为 O(log n)
+- 注意 "区间不变量"，每一次边界处理都根据区间的定义来操作
+  - 左闭右闭 [left, right]
+    - while循环
+    - 左右区间迭代
+  - 左闭右开 [left, right)
+    - while循环 
+    - 左右区间迭代
+- 对Java或C，start+end可能会overflow，需要用start + (end - start) // 2
+- 避免死循环用 (start + 1) < end
+
 
 ```
 def binary_search(key, nums):

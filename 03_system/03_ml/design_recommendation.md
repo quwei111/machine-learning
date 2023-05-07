@@ -41,6 +41,7 @@ consistency: read/ write heavy
 ### DataSchema & Scale
 
 ### Monitoring & Metrics
+注意区分statistical metric和business metric。后者意义更大，但经常无法直接optimize，只能通过ab-testing测试。
 - ctr
 - impression per second
 - candidate count (from recall)
@@ -48,8 +49,21 @@ consistency: read/ write heavy
 - 通用metrics：cpu,qps, latency
 
 
-## 问题
-- 地点约束
+## 特定情况
+- 地点约束，例如yelp的饭馆推荐
+- user network，例如facebook newsfeed推荐
+- 音乐、视频的embedding，例如spotify音乐推荐
+
+## 模型
+- rule based model
+- 转化为classification/regression模型
+- matrix factorization
+- factorization machine
+- wide and deep learning
+
+例如怎么加user and item metadata
+retrain plan
+
 
 ## Reference
 - https://github.com/Doragd/Algorithm-Practice-in-Industry

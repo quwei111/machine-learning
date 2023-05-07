@@ -182,10 +182,23 @@
     * [472 Concatenated Words]()
     * [403 Frog Jump]()
     * [329 Longest Increasing Path in a Matrix]()
+  
   * [贪心](01_leetcode/10_greedy)
     * 
+  
   * [前缀和](01_leetcode/11_prefix_sum)
-    * 
+    * [53 Maximum Subarray]()
+    * [1423 Maximum Points You Can Obtain from Cards]()
+    * [1031 Maximum Sum of Two Non-Overlapping Subarrays]()
+    * [523 Continuous Subarray Sum]()
+    * [304 Range Sum Query 2D - Immutable]()
+  
+  * [Union find](01_leetcode/12_union_find)
+    * [721 Accounts Merge]()
+    * [547 Number of Provinces]()
+    * [737 Sentence Similarity II]()
+    * [305 Number of Islands II]()
+  
   * [SQL](01_leetcode/99_SQL)
     * 
 

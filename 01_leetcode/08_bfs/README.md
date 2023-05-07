@@ -1,6 +1,7 @@
 # 广度优先搜索
 
 - 解决遍历树的最短路径
+- use BFS for unweighted graphs and use Dijkstra's algorithm for weighted graphs
 
 
 基础知识：

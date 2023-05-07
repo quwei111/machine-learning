@@ -1,15 +1,16 @@
 # Python 基础
 
-## Python基础知识
+## 基础知识
 - 垃圾回收机制gc
 - 全局锁GIL
 
-
 ## Python常用操作
-- 从列表list中找出某值a第一个匹配项的索引位置
+
+- 从列表list中找出目标值a第一个匹配项的索引位置
 ```python
 list.index(a) 
 ```
+
 - python中使用列表实现队列
 ```python
 list.pop(0)
@@ -17,21 +18,21 @@ list.pop(0)
 
 - 往某个位置插入某个元素
 ```python
-list.insert(0, num), 
+list.insert(0, num)
 ```
 
 - 列表排序
 ```python
 l = sorted(l)
-l.sorted()  # inplace
+l.sorted()  # in-place
 ```
 
 - 定义二维列表
 ```python
 matrix = [[0 for _ in range(col)] for _ in range(row)]
-matric = [[0]*col for _ in range(row) ]
+matrix1 = [[0]*col for _ in range(row) ]
 
-# 错误
+# 错误，都是引用导致值相同
 [[0] * col] * row
 ```
 
@@ -99,6 +100,13 @@ while l >= 0 and r < len(s) and s[l] == s[r]
 
 - for循环：提前已知遍历的所有元素；while循环：根据循环过程来决定所有遍历元素
 
+- 最小与最大
+
+```python
+float('inf')
+float('-inf') 
+```
+
 ## 排序
 
 
@@ -161,7 +169,9 @@ print(selection_sort([4,2,1,10,5,3,100]))
 
 ### 归并排序
 
-- 树的后续遍历
+- 树的后序遍历
+- divide & conquer: top down & bottom up
+
 ```python
 # merge sort
 
@@ -195,6 +205,8 @@ print(merge_sort([5,1,2,4,6,3]))
 ### 快速排序
 
 - 树的前序遍历
+- average O(NLOGN) 最好O(1) 最差O(N^2)
+
 ```python
 #quick sort
 import numpy as np
@@ -268,7 +280,8 @@ print(list)
 ```
 
 ### 拓扑排序
-拓扑排序也可以被看成是[广度优先搜索](../08_bfs/README.md)的一种情况
+- 拓扑排序也可以被看成是[广度优先搜索](../08_bfs/README.md)的一种情况
+- 一般用于解决有方向的图，non-directed graph不能用， 需要用union find或者普通的DFS/BFS
 
 ```python
 # https://zh.wikipedia.org/wiki/%E6%8B%93%E6%92%B2%E6%8E%92%E5%BA%8F

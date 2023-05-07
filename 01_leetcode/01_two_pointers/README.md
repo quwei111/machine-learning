@@ -8,6 +8,9 @@
 - 模式三：
 
 
+滑动窗口
+- Sliding window can only be used when nums are all positive, if it exists negative number, DP is needed-
+
 
 ## Reference
 - [Leetcode 同向双指针/滑动窗口类代码模板](https://zhuanlan.zhihu.com/p/390570255)

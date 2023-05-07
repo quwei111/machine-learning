@@ -251,6 +251,7 @@ N叉树
 # 树
 - preorder/ inorder/ postorder/ level
 
+- [了解]空间优化 Morris traversal: iterative approach to leverage preorder traversal that the the entire left subtree would be placed between the node and its right subtree
 
 ```
 #https://stackoverflow.com/questions/2598437/how-to-implement-a-binary-tree

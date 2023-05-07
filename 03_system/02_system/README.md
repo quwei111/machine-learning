@@ -1,9 +1,4 @@
-
-
-
-
-
-- MLE基本不会直接考察如何设计twitter的系统设计问题
+# 系统设计
 
 ## Template
 - Functional requirement
@@ -53,6 +48,41 @@
 - How to do model rollout
 - 两个service要互相发消息，怎么解决
 
+## 基础
+
+push and pull
+
+consistent hashing
+
+event sourcing
+
+paxos and raft
+
+cache
+
+redis
+
+
+
+### SQL and NoSQL
+
+需要支持transaction和join的，需要用SQL
+需要high TPS和灵活schema的，用NoSQL
+
+SQL(ACID)
+- consistency
+- structured data (fixed schema)
+- transactions
+- joins
+
+NOSQL
+- high performance
+- unstructured data (flexible schema)
+- availability
+- easy scalability
+
+
+
 ## Reference
 - Web Application and Software Architecture 101
 - Groking the system interview
@@ -71,3 +101,4 @@
 - https://time.geekbang.org/column/article/6458
 - https://blog.bytebytego.com/?sort=top
 - https://soulmachine.gitbooks.io/system-design/content/cn/
+- [System Design Introduction For Interview.](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
