@@ -1,5 +1,6 @@
 
 # 设计推荐系统
+[推荐系统知识](../../02_ml/10_recommendation.md)
 
 ## 实例：design ads recommendation system for amazon
 
@@ -11,12 +12,12 @@ Ranking / Localization
 Permission management
 
 ### NonFunctional requirement
-MVP and Non-MVP
-users should have a real time/ near real time / small latency experience Idempotency/ exact-once/ at-least-once/ at-most-once
+- MVP and Non-MVP
+- users should have a real time/ near real time / small latency experience Idempotency/ exact-once/ at-least-once/ at-most-once
 
-reliability: data not get lost/ job not executed in parallel retention policy
-security: store encoded personal data
-consistency: read/ write heavy
+- reliability: data not get lost/ job not executed in parallel retention policy
+- security: store encoded personal data
+- consistency: read/ write heavy
 
 ### Capacity planning
 - dau

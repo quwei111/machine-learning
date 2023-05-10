@@ -106,6 +106,13 @@
     * [1472. Design Browser History](01_leetcode/05_stack_queue/1472.%20Design%20Browser%20History.md)
     * [1209. Remove All Adjacent Duplicates in String II](01_leetcode/05_stack_queue/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)
     * [1249. Minimum Remove to Make Valid Parentheses](01_leetcode/05_stack_queue/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.md)
+
+    * [85 Maximum Rectangle]()
+    * [84 Largest Rectangle in Histogram]()
+    * [907 Sum of Subarray Minimums]()
+    * [739 Daily Temperatures]()
+    * [901 Online Stock Span]()
+    * [503 Next Greater Element II]()
   
   * [优先队列/堆](01_leetcode/06_heap)
     * [973. K Closest Points](01_leetcode/06_heap/973.%20K%20Closest%20Points.md)
@@ -184,7 +191,7 @@
     * [329 Longest Increasing Path in a Matrix]()
   
   * [贪心](01_leetcode/10_greedy)
-    * 
+    * []()
   
   * [前缀和](01_leetcode/11_prefix_sum)
     * [53 Maximum Subarray]()
@@ -209,6 +216,10 @@
   * [支持向量机](02_ml/03_svm.md)
   * [决策树](02_ml/04_tree.md)
   * [深度学习](02_ml/05_dl.md)
+  * [评价指标](02_ml/06_metrics.md)
+  * [k近邻](02_ml/07_knn.md)
+  * [k-means](02_ml/09_k_means.md)
+  * [推荐系统](02_ml/10_recommendation.md)
 
 * [系统设计](03_system)
   * [面向对象设计](03_system/01_ood)

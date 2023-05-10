@@ -1,5 +1,7 @@
 # 支持向量机
 
+对偶问题 KKT条件 软边界
+
 ## what's the difference between logistic regression and SVM
 - loss type, logistic loss for LR, hinge loss for SVM
 - LR is parametric model (Bernouli distribution), SVM with RBF kernel is non-parametric model

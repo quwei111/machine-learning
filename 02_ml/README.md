@@ -9,6 +9,8 @@
   - 手写softmax的backpropagation
   - 手写AUC
   - 手写SGD
+  - 视觉：手写iou/nms
+
 - 延伸
   - 给一个LSTM network的结构，计算how many parameters
   - convolution layer的output size怎么算? 写出公式

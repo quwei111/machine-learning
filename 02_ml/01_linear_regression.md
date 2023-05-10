@@ -8,8 +8,6 @@
 
 $$ y=w^Tx +b $$
 
-
-
 $$ w,b=\mathop {argmin} _{w,b}Loss $$
 
 Loss: 

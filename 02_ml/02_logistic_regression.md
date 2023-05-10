@@ -11,12 +11,14 @@
 https://www.zhihu.com/question/269698662/answer/350806067
 
 - 并行
-逻辑回归并行化主要是对目标函数梯度计算的并行化
+逻辑回归并行化主要是对目标函数梯度计算的并行化。逻辑回归可以认为是极简的MLP。
 
 ## 问答
 - 为什么逻辑回归不用mse做损失函数
 
 [本质是分布不同；公式推导发现容易导致梯度消失，很大的话梯度有一项会趋于0；陷入局部最优](https://zhuanlan.zhihu.com/p/453411383)
+
+[用平方差后 损失函数是非凸的，很难找到全局最优解](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c)
 
 ## 代码
 
