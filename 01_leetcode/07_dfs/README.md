@@ -2,6 +2,10 @@
 
 主函数用于遍历所有的搜索位置，判断是否可以开始搜索，如果 可以即在辅函数进行搜索。辅函数则负责深度优先搜索的递归调用
 
+- 一维 or 二维(二叉树) dfs
+- 记录状态的dfs (图)
+
+
 ## recursive and nonrecursive
 
 graph1 = {
@@ -191,9 +195,8 @@ tree.find(3)
 
 ```
 
-
 基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
-Leetcode  (339 364)
+
 Leetcode 394 Decode String
 Leetcode 51 N-Queens (I II基本相同)
 Leetcode 291 Word Pattern II (I为简单的Hashmap题)
@@ -329,7 +332,5 @@ tree.add(8)
 tree.add(2)
 tree.print()
 tree.find(3)
-
-
 
 ```
