@@ -14,6 +14,12 @@
 
 ## 实体识别
 
+关系抽取
+- spert
+
+事件抽取
+- djhee 和 plmee
+
 
 ## 问答
 - 为啥文本不用batch norm要用layer norm
@@ -34,3 +40,5 @@
 
 key phrase generation
 - https://www.zhihu.com/question/21104071
+
+- NPChunker

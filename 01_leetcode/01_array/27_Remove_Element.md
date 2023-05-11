@@ -28,7 +28,9 @@ class Solution:
                 slow += 1
         return slow
 ```
-复杂度：
+时间复杂度：O(n)
+空间复杂度：
+
 
 ## summary
 - 类似的双指针题目，slow记录一个位置

@@ -60,7 +60,7 @@
     * [1891. Cutting Ribbons](01_leetcode/01_binary_search/1891.%20Cutting%20Ribbons.md)
     * [410. Split Array Largest Sum](01_leetcode/01_binary_search/410.%20Split%20Array%20Largest%20Sum.md)
   
-  * [单链表](01_leetcode/02_linked_list)
+  * [链表](01_leetcode/02_linked_list)
     * [203 移除链表元素](01_leetcode/02_linked_list/203_remove_element.md)
     * [206. Reverse Linked List](01_leetcode/02_linked_list/206.%20Reverse%20Linked%20List.md)
     * [92. Reverse Linked List II](01_leetcode/02_linked_list/92.%20Reverse%20Linked%20List%20II.md)
@@ -223,8 +223,11 @@
 
 * [系统设计](03_system)
   * [面向对象设计](03_system/01_ood)
+    * [电梯](03_system/01_ood/lift.md)
   * [SDE系统设计](03_system/02_system)
+    * [设计社交网站Twitter](03_system/02_system/twitter.md)
   * [机器学习系统设计](03_system/03_ml)
+    * [推荐系统](03_system/03_ml/recommendation.md)
 
 * [行为面试](04_bq)
   * [领导力法则](04_bq/01_leadership_principles.md)

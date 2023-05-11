@@ -1,5 +1,8 @@
 # 推荐系统
 
+## 业务
+CVR (Conversion Rate): 转化率
+
 ## 思路
 召回、排序、策略
 
@@ -14,6 +17,8 @@
 learning to rank 流程三大模式（pointwise、pairwise、listwise），主要是特征工程和CTR模型预估
 - 常见的特征挖掘（user、item、context，以及相互交叉）
 - CTR预估，如LR、GBDT、FM、FFM、DNN、Wide&Deep、DCN、DeepFM、DIN、DFN
+- 多目标：
+- 特征：user, item, context
 
 ### 探索与发现（bandit、Q-Learning、DQN）
 
@@ -36,8 +41,12 @@ learning to rank 流程三大模式（pointwise、pairwise、listwise），主�
 - popularity bias
 - https://zhuanlan.zhihu.com/p/518175104
 
+### 冷启动
 
-### 细节问题
+
+### 长尾问题
+
+### 模型细节
 
 item average_pooling和sum_pooling的区别
 - 从反向传播角度看相当于学习率砍了N倍。DIN似乎效果一般
@@ -51,20 +60,31 @@ item average_pooling和sum_pooling的区别
 ## 论文
 
 [Deep Neural Networks for YouTube Recommendations](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p191-covington.pdf)
+- 目标：观看时长 （可减少标题党推荐，是否会影响长短视频bias）
+  - 通过改变样本权重来预测观看时长。正样本权重就是时长，负样本权重为1
 
 - 召回 
+  - 抽象成一个海量类别的多分类问题
   - 单塔: embed -> avg -> concat embed -> MLP
-  - sample negative classes, in-batch loss 随机采样
-  - 线下训练：
-  - 线上推理：
+  - 训练：超多分类通过sample negative classes, in-batch loss 随机采样；测试：近邻 
+  - 推理：
 - 排序
 
 [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations]()
+
 - 召回
   - 双塔
   - user在线serving，item离线计算后索引
   - 负样本为王，不光是点击未曝光
   - 无效曝光：返回、遮挡、 重复上报
+
+[Real-time Personalization using Embeddings for Search Ranking at Airbnb]()
+
+## 业务优化
+
+- 多检查数据规律
+- 是否share embedding
+- 多目标训练
 
 ## 参考
 - https://github.com/twitter/the-algorithm

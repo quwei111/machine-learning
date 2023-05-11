@@ -26,7 +26,8 @@
     - NLLB
 - Monitoring, failure tolerance, updating (below)
 - Auto ML (soft: HP tuning, hard: arch search (NAS))
-
+- 线上线下不一致
+  - [推荐系统有哪些坑？](https://www.zhihu.com/question/28247353/answer/2126590086)
 
 ## 参考
 - https://github.com/khangich/machine-learning-interview
@@ -42,6 +43,7 @@
 
 - https://www.youtube.com/c/BitTiger
 - [ML system 入坑指南 - Fazzie的文章 - 知乎](https://zhuanlan.zhihu.com/p/608318764)
+- [模型生产环境中的反馈与数据回流 - 想飞的石头的文章 - 知乎](https://zhuanlan.zhihu.com/p/493080131)
 
 
 ## design doc

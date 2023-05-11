@@ -10,8 +10,7 @@
 
 
 ## 常见面试问题
-- Design a URL shortener (e.g. Bitly)
-- Design a social media website (e.g. Twitter)
+- Design a URL shortener (e.g. Bitly)- 
 - Design a video watching website (e.g. YouTube)
 - Design a chatting service (e.g. Telegram, Slack, Discord)
 - Design a file sharing service (e.g. Google Drive, Dropbox)
@@ -26,7 +25,6 @@
 - Design large scale rate limiter
 - Design Netflix
 - Design Amazon inventory system
-- Design twitter/tweets/followerssystem
 - Design Venmo 
 - Design large scale notification platform
 - Design AirBNB platform 
@@ -62,6 +60,8 @@ cache
 
 redis
 
+数据库规范化(Normalization)
+- Normalisation Form(NF)，其中包括第一范式、第二范式、第三范式、第四范式以及第五范式(1NF、2NF、3NF、4NF、5NF)
 
 
 ### SQL and NoSQL

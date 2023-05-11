@@ -19,6 +19,9 @@ Permission management
 - security: store encoded personal data
 - consistency: read/ write heavy
 
+召回：对召回系统的要求是，“低延时”与“高精度（precision）
+
+
 ### Capacity planning
 - dau
 - qps
@@ -67,6 +70,7 @@ retrain plan
 
 
 ## Reference
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 - https://github.com/Doragd/Algorithm-Practice-in-Industry
 - https://xie.infoq.cn/article/e1db36aecf60b4da29f56eeb4
 - https://github.com/wzhe06/SparrowRecSys
@@ -76,4 +80,3 @@ retrain plan
 - https://github.com/jiawei-chen/RecDebiasing
 - https://zhuanlan.zhihu.com/p/618667508- 
 - [架构设计之广告系统架构解密](https://juejin.cn/post/6988408093587537933)
-- 

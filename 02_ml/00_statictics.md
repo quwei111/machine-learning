@@ -11,12 +11,13 @@ P-value, correlation matrix, t-test, VIF, R2, adjusted R2，ANOVA，F-test，Nul
 ## 蒙特卡洛
 
 
+
 ## AB test
 - sample size计算
 - 不同element increase/decrease对power的影响
 
 ## 独立同分布IID
-机器学习领域的重要架设
+机器学习领域的重要假设
 
 ## 常见面试问题
 - What is p-value? What is confidence interval? Explain them to a product manager or non-technical person.. (很明显人家不想让你回答: 画个正态分布然后两边各卡5% (￣▽￣)" )
