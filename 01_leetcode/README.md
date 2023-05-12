@@ -19,7 +19,8 @@
 - 写完代码后，进行test的过程
 - 最后给出复杂度分析
 
-### 第一步确认的问题
+### 给出问题后第一步确认的参考list
+
 - input/output type
 - input size 以及edge cases of null or empty
 - input element 有无重复
@@ -38,11 +39,13 @@
 - geo data (quad tree)
 - 文本搜索提示 (trie)
 
-## 参考
-- [https://zhuanlan.zhihu.com/p/349940945](https://zhuanlan.zhihu.com/p/349940945)
+## leetcode刷题列表参考
+- [Leetcode面试高频题分类刷题总结](https://zhuanlan.zhihu.com/p/349940945)
+- [代码随想录](https://programmercarl.com/)
 
 
 ## 学习资料
+
 基础
 - [Introduction to Computer Science - Harvard CS50x](https://cs50.harvard.edu/x/)
 - [Structure and Interpretation of Computer Programs - UC Berkeley CS 61A](https://cs61a.org/)

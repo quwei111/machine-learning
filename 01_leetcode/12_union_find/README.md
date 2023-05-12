@@ -1,7 +1,4 @@
-Leetcode 
-Leetcode 
-Leetcode 
-Leetcode 
+# 并查集
 
 - 某些题可以用DFS/BFS，DFS/BFS可能会有找不到某些点，只能用union find
 

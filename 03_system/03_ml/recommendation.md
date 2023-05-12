@@ -74,9 +74,8 @@ retrain plan
 - https://github.com/Doragd/Algorithm-Practice-in-Industry
 - https://xie.infoq.cn/article/e1db36aecf60b4da29f56eeb4
 - https://github.com/wzhe06/SparrowRecSys
-- https://zhuanlan.zhihu.com/p/81752025
+- [推荐系统--完整的架构设计和算法(协同过滤、隐语义)](https://zhuanlan.zhihu.com/p/81752025)
 - https://www.6aiq.com/article/1553963227373
-
 - https://github.com/jiawei-chen/RecDebiasing
-- https://zhuanlan.zhihu.com/p/618667508- 
+- [Twitter是怎么做推荐的？马斯克开源代码梳理](https://zhuanlan.zhihu.com/p/618667508) 
 - [架构设计之广告系统架构解密](https://juejin.cn/post/6988408093587537933)

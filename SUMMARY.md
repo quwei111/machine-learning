@@ -200,7 +200,7 @@
     * [523 Continuous Subarray Sum]()
     * [304 Range Sum Query 2D - Immutable]()
   
-  * [Union find](01_leetcode/12_union_find)
+  * [并查集](01_leetcode/12_union_find)
     * [721 Accounts Merge]()
     * [547 Number of Provinces]()
     * [737 Sentence Similarity II]()

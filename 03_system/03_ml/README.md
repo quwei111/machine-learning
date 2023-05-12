@@ -38,7 +38,6 @@
 - https://github.com/ibragim-bad/machine-learning-design-primer
 - https://www.1point3acres.com/bbs/thread-901192-1-1.html
 - Grokking the Machine Learning Interview
-
 - https://about.instagram.com/blog/engineering/designing-a-constrained-exploration-system
 
 - https://www.youtube.com/c/BitTiger

@@ -22,3 +22,15 @@ class ListNode():
 dummy = ListNode(-1)
 dummy.next = head
 ```
+
+- 插入节点
+```python
+new = ListNode(val=0)
+new.next = cur.next  # 适当的先后顺序
+cur.next = new
+```
+
+- 删除节点
+```python
+cur.next = cur.next.next
+```

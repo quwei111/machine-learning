@@ -81,13 +81,14 @@ item average_pooling和sum_pooling的区别
 [Real-time Personalization using Embeddings for Search Ranking at Airbnb]()
 
 ## 业务优化
-
 - 多检查数据规律
 - 是否share embedding
 - 多目标训练
+
 
 ## 参考
 - https://github.com/twitter/the-algorithm
 - https://github.com/tangxyw/RecSysPapers
 - [互联网大厂的这些推荐算法面试题，你都能答上来吗？ - 石塔西的文章 - 知乎](https://zhuanlan.zhihu.com/p/627578461)
 - [Swing算法介绍、实现与在阿里飞猪的实战应用](https://zhuanlan.zhihu.com/p/364593067)
+- [EasyRec](https://github.com/alibaba/EasyRec)

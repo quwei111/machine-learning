@@ -15,7 +15,7 @@
 
 
 ## 常见问题
-背后都对应着leadership principles
+准备若干的工作小故事，并且背后对应着leadership principles
 
 - conflicts with manager/跟老板同事如何处理冲突，
 - challenging project
