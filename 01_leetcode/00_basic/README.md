@@ -54,6 +54,8 @@ dict.get(key, default)
 - 删除键值
 ```python
 del dict[key]
+
+my_dict.pop('key', None)
 ```
 
 - 个位是否为1
@@ -68,6 +70,7 @@ x % 10 == 1
 
 - 链表循环内容涉及两个节点判断时
 ```python
+# 根据head / head.next / head & head.next 来决定迭代终点
 while head is not None and head.next is not None:
     pass
 ```

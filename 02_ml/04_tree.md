@@ -9,6 +9,7 @@ entropy公式：
 
 ### 基尼系数
 
+### squared loss
 
 
 ## adaboost

@@ -20,6 +20,7 @@
 事件抽取
 - djhee 和 plmee
 
+关系抽取后的结果：保存Neo4j
 
 ## 问答
 - 为啥文本不用batch norm要用layer norm

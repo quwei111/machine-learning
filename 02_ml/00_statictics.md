@@ -11,7 +11,6 @@ P-value, correlation matrix, t-test, VIF, R2, adjusted R2，ANOVA，F-test，Nul
 ## 蒙特卡洛
 
 
-
 ## AB test
 - sample size计算
 - 不同element increase/decrease对power的影响
