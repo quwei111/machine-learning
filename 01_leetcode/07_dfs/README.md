@@ -5,6 +5,12 @@
 - 一维 or 二维(二叉树) dfs
 - 记录状态的dfs (图)
 
+基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search
+
+基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
+
+记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
+
 
 ## recursive and nonrecursive
 
@@ -191,49 +197,9 @@ tree.add(2)
 tree.print()
 tree.find(3)
 
-
-
 ```
 
-基于图的DFS: 和BFS一样一般需要一个set来记录访问过的节点，避免重复访问造成死循环; Word XXX 系列面试中非常常见，例如word break，word ladder，word pattern，word search。
 
-Leetcode 394 Decode String
-Leetcode 51 N-Queens (I II基本相同)
-Leetcode 291 Word Pattern II (I为简单的Hashmap题)
-Leetcode 126 Word Ladder II （I为BFS题目）
-Leetcode 93 Restore IP Addresses
-Leetcode 22 Generate Parentheses
-Leetcode 856 Score of Parentheses
-Leetcode 301 Remove Invalid Parentheses
-Leetcode 37 Sodoku Solver
-Leetcode 212 Word Search II （I, II）
-Leetcode 1087 Brace Expansion
-Leetcode 399 Evaluate Division
-Leetcode 1274 Number of Ships in a Rectangle
-Leetcode 1376 Time Needed to Inform All Employees
-Leetcode 694 Number of Distinct Islands
-Leetcode 131 Palindrome Partitioning
-
-基于排列组合的DFS: 其实与图类DFS方法一致，但是排列组合的特征更明显
-Leetcode 17 Letter Combinations of a Phone Number
-Leetcode 39 Combination Sum（I, II, III相似， IV为动态规划题目）
-Leetcode 78 Subsets （I, II 重点在于如何去重）
-Leetcode 46 Permutation (I, II 重点在于如何去重)
-Leetcode 77 Combinations (I, II 重点在于如何去重)
-Leetcode 698 Partition to K Equal Sum Subsets
-Leetcode 526 Beautiful Arrangement (similar to 46)
-
-记忆化搜索（DFS + Memoization Search）：算是用递归的方式实现动态规划，递归每次返回时同时记录下已访问过的节点特征，避免重复访问同一个节点，可以有效的把指数级别的DFS时间复杂度降为多项式级别; 注意这一类的DFS必须在最后有返回值（分治法），不可以用回溯法; for循环的dp题目都可以用记忆化搜索的方式写，但是不是所有的记忆化搜索题目都可以用for循环的dp方式写。
-Leetcode 139 Word Break II
-Leetcode 72 Edit Distance
-Leetcode 377 Combination Sum IV
-Leetcode 1235 Maximum Profit in Job Scheduling
-Leetcode 1335 Minimum Difficulty of a Job Schedule
-Leetcode 1216 Valid Palindrome III
-Leetcode 97 Interleaving String
-Leetcode 472 Concatenated Words
-Leetcode 403 Frog Jump
-Leetcode 329 Longest Increasing Path in a Matrix
 
 
 # 回溯 backtracking
