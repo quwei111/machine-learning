@@ -1,3 +1,11 @@
+# 56. Merge Intervals
 
 
-intervals: sort by start or end, 有无overlap 看是否 current start > last end
+
+## solution
+- sort by start or end, 有无overlap 看是否 current start > last end
+```python
+
+```
+
+时间复杂度：O(nlogn)

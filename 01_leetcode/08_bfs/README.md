@@ -1,7 +1,7 @@
 # 广度优先搜索
 
 - 解决遍历树的最短路径
-- use BFS for unweighted graphs and use Dijkstra's algorithm for weighted graphs
+- use BFS for unweighted graphs and use Dijkstra's algorithm for weighted graphs. Dijkstra is similar to BFS, the difference is using priority queue instead of queue. The priority will pop the element with higher priority
 
 
 基础知识：
