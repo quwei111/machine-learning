@@ -9,10 +9,13 @@ Given the total number of courses and a list of prerequisite pairs, is it possib
 
 ## solution
 - 建图，判断图是否有环
+- 建立队列存储不需要先行课程的课程，从队列中取出元素，找到依赖该元素的后续课程。如果后续课程不再依赖其他课程，则加入队列
+
 
 ```python
 
 ```
+时间复杂度：
 
 ## Follow-up
-- [210. Course Schedule II]()
+- [210. Course Schedule II](./210.%20Course%20Schedule%20II.md)

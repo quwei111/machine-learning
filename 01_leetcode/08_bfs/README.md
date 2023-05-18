@@ -20,5 +20,4 @@ visited = set([target.val])
 for k in range(K):
     bfs = [y for x in bfs for y in conn[x] if y not in visited]
     visited |= set(bfs)
-return bfs
 ```

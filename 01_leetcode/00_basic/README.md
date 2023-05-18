@@ -14,6 +14,8 @@ list.index(a)
 - python中使用列表实现队列
 ```python
 list.pop(0)
+# list.remove()
+# lost.append()
 ```
 
 - 往某个位置插入某个元素
@@ -24,7 +26,17 @@ list.insert(0, num)
 - 列表排序
 ```python
 l = sorted(l)
+l = sorted(l, key = lambda x: x[0])
+
 l.sorted()  # in-place
+```
+
+- deque
+```python
+# BFS
+from collections import deque
+
+depuq.popleft()
 ```
 
 - 定义二维列表
@@ -108,6 +120,12 @@ while l >= 0 and r < len(s) and s[l] == s[r]
 ```python
 float('inf')
 float('-inf') 
+```
+
+- flag来交替
+```python
+# 280. Wiggle Sort
+
 ```
 
 ## 排序
