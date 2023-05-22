@@ -1,3 +1,3 @@
-# KNN近邻
+# K近邻
 
 NDTree

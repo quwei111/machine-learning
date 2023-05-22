@@ -137,3 +137,4 @@ if __name__ == "__main__":
 ## 参考
 - https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/04/lecture-04.pdf
 - http://dengcai.zjulearning.org.cn/Courses/ml/ppt/04_LinearRegression.pdf
+- [为什么L1和L2正则化可防止过拟合 - 大龙的文章 - 知乎](https://zhuanlan.zhihu.com/p/85630046)

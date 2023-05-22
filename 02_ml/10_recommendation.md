@@ -10,14 +10,16 @@ CVR (Conversion Rate): 转化率
 - 统计类，热度，LBS
 - 协同过滤类，UserCF、ItemCF
 - U2T2I，如基于user tag召回
-- I2I类，如Embedding（Word2Vec、FastText），GraphEmbedding（Node2Vec、DeepWalk、EGES）
-- U2I类，如DSSM、YouTube DNN、Sentence Bert
+- **I2I**，如Embedding（Word2Vec、FastText），GraphEmbedding（Node2Vec、DeepWalk、EGES）
+- U2I，如DSSM、YouTube DNN、Sentence Bert
 
 ### 排序
-learning to rank 流程三大模式（pointwise、pairwise、listwise），主要是特征工程和CTR模型预估
+learning to rank 流程三大模式（point-wise、pair-wise、list-wise），主要是特征工程和CTR模型预估
 - 常见的特征挖掘（user、item、context，以及相互交叉）
+- 粗排：**双塔**
+- 精排：**MLP**
 - CTR预估，如LR、GBDT、FM、FFM、DNN、Wide&Deep、DCN、DeepFM、DIN、DFN
-- 多目标：
+- 多目标多场景：MMOE
 - 特征：user, item, context
 
 ### 探索与发现（bandit、Q-Learning、DQN）
@@ -68,6 +70,7 @@ item average_pooling和sum_pooling的区别
   - 单塔: embed -> avg -> concat embed -> MLP
   - 训练：超多分类通过sample negative classes, in-batch loss 随机采样；测试：近邻 
   - 推理：
+
 - 排序
 
 [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations]()

@@ -44,7 +44,8 @@ key phrase generation
 
 - NPChunker
 
-## 前处理
-
-[Byte Pair Encoder](https://github.com/karpathy/minGPT/blob/master/mingpt/bpe.py)
-
+## 参考与继续阅读
+- [CS224N](https://web.stanford.edu/class/cs224n/index.html#schedule)
+- [information-retrieval-book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- [前处理 Byte Pair Encoder](https://github.com/karpathy/minGPT/blob/master/mingpt/bpe.py)
+- [Text clustering with K-means and tf-idf](https://medium.com/@MSalnikov/text-clustering-with-k-means-and-tf-idf-f099bcf95183)

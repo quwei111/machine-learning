@@ -103,7 +103,7 @@
     * [155. Min Stack](01_leetcode/05_stack_queue/155.%20Min%20Stack.md)
     * [232. Implement Queue using Stacks](01_leetcode/05_stack_queue/232.%20Implement%20Queue%20using%20Stacks.md)
     * [150. Evaluate Reverse Polish Notation](01_leetcode/05_stack_queue/150.%20Evaluate%20Reverse%20Polish%20Notation.md)
-    * [224. Basic Calculator II (I, II, III, IV)](01_leetcode/05_stack_queue/224.%20Basic%20Calculator%20II%20(I,%20II,%20III,%20IV).md)
+    * [224. Basic Calculator](01_leetcode/05_stack_queue/224.%20Basic%20Calculator.md)
     * [20. Valid Parentheses](01_leetcode/05_stack_queue/20.%20Valid%20Parentheses.md)
     * [1472. Design Browser History](01_leetcode/05_stack_queue/1472.%20Design%20Browser%20History.md)
     * [1209. Remove All Adjacent Duplicates in String II](01_leetcode/05_stack_queue/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md)

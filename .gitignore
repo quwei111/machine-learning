@@ -89,3 +89,4 @@ coverage.xml
 /weights/
 /reference/*
 /myroad/*
+Makefile

@@ -1,6 +1,6 @@
 # 行为面试 Behavior question
 
-面试考察的不单是技术能力，更是考察是否是未来值得合作的同事。行为面试不可小觑，甚至更多时候软实力都是更重要的能力，因此面试时有针对的准备是非常非常有必要的。
+面试考察的不单是技术，更是考察是否是未来值得合作的同事。行为面试不可小觑，甚至更多时候软实力都是工作中更重要的能力，也是北美面试非常看重的，因此面试时有针对的准备是**非常非常**有必要的。
 
 ## 基本态度
 - 说话自信大气，眼睛和肢体不要有多余的动作，professional, 有Leader该有的样子。而且不要我，是你们的损失，有这种气魄，但不要因此傲气
@@ -14,9 +14,17 @@
 - 有些问题，可以多要点时间想想 不要乱说。框架性思考，分点阐述。不必着急回答
 
 
+## Project
+- star原则：situation, task, action, results
+- 里面的细节
+- 是否有不足之处，怎么改善/或现在让你重新来做，会如何改善
+
+
 ## 常见问题
 准备若干的工作小故事，并且背后对应着leadership principles
 
+- why are you interested in x company? why now?
+- give some examples that you help others
 - conflicts with manager/跟老板同事如何处理冲突，
 - challenging project
 - think differently
@@ -42,16 +50,6 @@
 - 优点缺点
 - 最有挑战的project
 - 之前经历学到什么，如果现在再来做最大的改变会是什么
-
-## Project
-- 里面的细节
-- 是否有不足之处，怎么改善/或现在让你重新来做，会如何改善
-
-## STAR
-- situation
-- task
-- action
-- results
 
 
 ## Reference
