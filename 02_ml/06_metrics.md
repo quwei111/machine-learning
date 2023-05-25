@@ -9,6 +9,11 @@ AUC
 
 R square
 
+
+average precision
+- [sklearn metrics-AP](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html)
+
+
 ## 问题
 
 准确率的局限性

@@ -6,6 +6,7 @@
 ## defaultdict
 - defaultdict means that if a key is not found in the dictionary, then instead of a KeyError being thrown, a new entry is create
 
+- dict and defaultdict
 ```python
 somedict = {}
 print(somedict[3]) # KeyError
@@ -21,4 +22,16 @@ print(d[3])
 
 # 带权重的图
 graph = collections.defaultdict(dict)
+```
+
+
+- 排序
+```python
+# 根据values
+sorted(footballers_goals.items(), key=lambda x:x[1])
+```
+
+- 增/改
+```python
+
 ```

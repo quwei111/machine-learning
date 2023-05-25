@@ -196,28 +196,28 @@ print(selection_sort([4,2,1,10,5,3,100]))
 ```python
 # merge sort
 
-def merge(lista,listb):
+def merge(lista, listb):
     output=[]
-    i,j=0,0
-    while i<len(lista) and j<len(listb):
-        if lista[i]>listb[j]:
+    i, j = 0, 0
+    while i < len(lista) and j < len(listb):
+        if lista[i] > listb[j]:
             output.append(listb[j])
-            j+=1
+            j += 1
         else:
             output.append(lista[i])
-            i+=1
-    if i<len(lista):
-        output+=lista[i:]
-    if j<len(listb):
-        output+=listb[j:]
+            i += 1
+    if i < len(lista):
+        output += lista[i:]
+    if j < len(listb):
+        output += listb[j:]
     return output
 
 
 def merge_sort(list):
     if len(list) <= 1:
         return list
-    mid=len(list)//2
-    return merge(merge_sort(list[:mid]),merge_sort(list[mid:]))
+    mid = len(list)//2
+    return merge(merge_sort(list[:mid]), merge_sort(list[mid:]))
 
 #print(merge([1,4,5],[2,3,6,8]))
 print(merge_sort([5,1,2,4,6,3]))
