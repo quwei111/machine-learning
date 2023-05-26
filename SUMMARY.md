@@ -214,6 +214,7 @@
     * [269 Alien Dictionary](01_leetcode/08_bfs/269%20Alien%20Dictionary.md)
     * [310 Minimum Height Trees](01_leetcode/08_bfs/310%20Minimum%20Height%20Trees.md)
     * [366 Find Leaves of Binary Tree](01_leetcode/08_bfs/366%20Find%20Leaves%20of%20Binary%20Tree.md)
+    * [994. Rotting Oranges](01_leetcode/08_bfs/994.%20Rotting%20Oranges.md)
   
   * [动态规划](01_leetcode/09_dynamic_program)
     * [139 Word Break II](01_leetcode/09_dynamic_program/139%20Word%20Break%20II.md)

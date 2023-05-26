@@ -5,7 +5,7 @@ Given the root of a binary tree, check whether it is a mirror of itself (i.e., s
 
 ## solution
 
-- 注释掉的部分，到导致结果错误。因此没有往下判断，写法上是一个前序遍历
+- 关于递归的返回。注释掉的返回，导致结果错误，甚至没有继续向下判断
 
 ```python
 # Definition for a binary tree node.

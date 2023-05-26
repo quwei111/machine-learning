@@ -45,6 +45,15 @@
 - How to do model serving readiness
 - How to do model rollout
 - 两个service要互相发消息，怎么解决
+- 高并发系统
+  - 缓存
+  - 降级
+  - 限流
+    - 计数器、漏桶和令牌桶
+- 负载均衡算法
+  - 轮询、加权轮询、随机算法、一致性Hash
+- 消息队列
+  - 解耦，异步处理，削峰/限流
 
 ## 基础
 
@@ -87,9 +96,6 @@ NOSQL
 ## Reference
 - Web Application and Software Architecture 101
 - Groking the system interview
-- DDIA
-- CMU 15721: advance database
-- MIT 6.824
 - Tech blog: uber/ pinterests
 - https://www.techinterviewhandbook.org/system-design/
 - https://github.com/madd86/awesome-system-design
@@ -103,3 +109,4 @@ NOSQL
 - https://blog.bytebytego.com/?sort=top
 - https://soulmachine.gitbooks.io/system-design/content/cn/
 - [System Design Introduction For Interview.](https://www.youtube.com/watch?v=UzLMhqg3_Wc)
+- [crack-the-system-design-interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)

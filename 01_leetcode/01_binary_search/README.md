@@ -11,7 +11,7 @@
     - while循环 
     - 左右区间迭代
 - 对Java或C，start+end可能会overflow，需要用start + (end - start) // 2
-- 避免死循环用 (start + 1) < end
+- 避免死循环用 (start + 1) < end，注意左右迭代时是否加1
 
 
 ```

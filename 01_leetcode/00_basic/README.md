@@ -6,7 +6,7 @@
 
 ## Python常用操作
 
-- 从列表list中找出目标值a第一个匹配项的索引位置
+- 从列表list中找出目标值a **第一个匹配项的索引** 位置
 ```python
 list.index(a) 
 ```
@@ -15,7 +15,7 @@ list.index(a)
 ```python
 list.pop(0)
 # list.remove()
-# lost.append()
+# list.append()
 ```
 
 - 往某个位置插入某个元素
@@ -28,12 +28,12 @@ list.insert(0, num)
 l = sorted(l)
 l = sorted(l, key = lambda x: x[0])
 
-l.sorted()  # in-place
+l.sort()  # 注意这是in-place
 ```
 
 - deque
 ```python
-# BFS
+# BFS常用
 from collections import deque
 
 depuq.popleft()
@@ -77,7 +77,7 @@ x % 10 == 1
 
 - heapq 堆的操作
 ```python
-
+import heapq
 ```
 
 - 链表循环内容涉及两个节点判断时
@@ -103,7 +103,7 @@ ord(s[0])/ s[0].isdigit()
 
 ```
 
-- 多个条件判断时，是否越界和是否符合条件可以写在一起。也就是有先后顺序的
+- 多个条件判断时，条件是有先后顺序的。是否越界和是否符合条件可以写在一起
 
 ```
 正确
@@ -161,6 +161,7 @@ def insert_sort(list):
             j -= 1
     return list
 ```
+
 - 递归写法
 ```python
 def insert_sort_rec(list,m):
@@ -229,7 +230,7 @@ print(merge_sort([5,1,2,4,6,3]))
 - average O(NLOGN) 最好O(1) 最差O(N^2)
 
 ```python
-#quick sort
+# quick sort
 import numpy as np
 
 def quick_sort(list):
@@ -244,17 +245,18 @@ def quick_sort(list):
             right.append(list[i])
     return quick_sort(left) + quick_sort(right)
 
-#print(quick_sort([5,1,2,4,6,3]))
 
-def partition(ls, p, r):
-    key = ls[r]
+def partition(list, p, r):
+    # 选择list中[p, r]区间返回位置i，左边都小于，右边都大于
+    key = list[r]
     i = p - 1
-    for j in range(p, r-1):
-        if ls[j] <= key:
+    for j in range(p, r - 1):
+        if list[j] <= key:
             i = i + 1
-            ls[i], ls[j] = ls[j], ls[i]
-    ls[i+1], ls[r] = ls[r], ls[i+1]
+            list[i], list[j] = list[j], list[i]
+    list[i+1], list[r] = list[r], list[i+1]
     return i + 1
+
 
 def quick_sort_op(list, p, r):
     if p < r:
@@ -263,8 +265,8 @@ def quick_sort_op(list, p, r):
         quick_sort_op(list, q + 1,r)
 
 
-list=[5,2,1,4,6,3]
-quick_sort_op(list,0,len(list)-1)
+list=[5, 2, 1, 4, 6, 3]
+quick_sort_op(list, 0, len(list)-1)
 print(list)
 ```
 
@@ -295,7 +297,7 @@ def heap_sort(list):
         list[i], list[0] = list[0], list[i]
         max_heapify(list, i, 0)
 
-list=[2, 7, 1, -2, 56, 5, 3]
+list = [2, 7, 1, -2, 56, 5, 3]
 heap_sort(list)
 print(list)
 ```

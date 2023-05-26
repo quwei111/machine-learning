@@ -54,3 +54,27 @@ class Solution:
             depth += 1
 
 ```
+
+
+## follow up
+[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
+```python
+class Solution:
+    def isBalanced(self, root: Optional[TreeNode]) -> bool:
+        if not root:
+            return True
+
+        l = self.height(root.left)
+        r = self.height(root.right)
+        return abs(l - r) <= 1 and self.isBalanced(root.left) and self.isBalanced(root.right)
+
+    def height(self, root):
+        if root is None:
+            return 0
+        
+        return max(self.height(root.left), self.height(root.right)) + 1
+        
+```
+
+

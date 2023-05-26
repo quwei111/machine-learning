@@ -21,6 +21,7 @@ learning to rank 流程三大模式（point-wise、pair-wise、list-wise），�
 - CTR预估，如LR、GBDT、FM、FFM、DNN、Wide&Deep、DCN、DeepFM、DIN、DFN
 - 多目标多场景：MMOE
 - 特征：user, item, context
+- light ranking/ heavy ranking
 
 ### 探索与发现（bandit、Q-Learning、DQN）
 
@@ -33,6 +34,7 @@ learning to rank 流程三大模式（point-wise、pair-wise、list-wise），�
 
 ## 问题
 ### how to scale
+
 ### serve personalized recommendations at a low latency
 
 ### Bias
@@ -58,6 +60,10 @@ item average_pooling和sum_pooling的区别
 - 让单路召回达到多路的效果
 - 面向后链路的一致性建模
 - 各种工业经验trick，包括但不限于特征、结构、loss
+
+### 监测
+- offline online inconsistency
+- ab test
 
 ## 论文
 

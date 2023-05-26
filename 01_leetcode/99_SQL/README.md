@@ -14,6 +14,12 @@
 - aggregate function
 - WITH common_table_expression
 - rank
+- SQL的执行顺序：from / where / group by / having / select / order by
+- 数据库优化
+  - 创建并使用正确的索引
+  - 只返回需要的字段
+  - 减少交互次数（批量提交）
+  - 设置合理的Fetch Size（数据每次返回给客户端的条数）
 
 ## 常见问题
 - What is the difference between union and union all? where and having?
@@ -22,7 +28,6 @@
 - Question 3: For each day, calculate the growth rate of purchase amount compared to the previous day. if no result for a previous day, show 'Null'.
 - Question 4: For each day, calculate a 30day rolling average purchase amount.
 - Question: what was the friend request acceptance rate for requests sent out on 2018-01-01?
-
 
 
 ## Reference
