@@ -55,3 +55,6 @@
 ## Reference
 - https://www.youtube.com/c/DanCroitor/videos
 - https://www.educative.io/courses/grokking-the-behavioral-interview
+- https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-a728c50a5ba244188e1c66e28d34dd1c
+- https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4
+- https://www.youtube.com/@Fred_Talk

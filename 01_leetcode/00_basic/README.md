@@ -31,6 +31,15 @@ l = sorted(l, key = lambda x: x[0])
 l.sort()  # 注意这是in-place
 ```
 
+- 列表索引
+```python
+# 左闭右开
+# 从右边取，注意为0会取全体值是否是想要的
+list[-1:]  # 取最后一个
+list[-0:]  # 取全体list
+list[::2]  # 每间隔2个取
+```
+
 - deque
 ```python
 # BFS常用

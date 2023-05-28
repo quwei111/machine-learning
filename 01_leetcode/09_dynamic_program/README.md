@@ -4,8 +4,8 @@
   - 解决最优化问题
 
 - 类型
-  - top-down
-  - bottom-up
+  - top-down 递归方式
+  - bottom-up 
 
 - 类型
   - 记忆化搜索（DFS + Memoization Search）

@@ -1,5 +1,9 @@
 # 评价指标
 
+F1
+- the harmonic mean of precision and recall
+
+
 KS
 - Kolmogorov-Smirnov，风控
 

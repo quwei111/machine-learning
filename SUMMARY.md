@@ -306,7 +306,7 @@
     * 
 
 * [机器学习](02_ml)
-  * [统计基础知识](02_ml/00_statictics.md)
+  * [统计知识](02_ml/00_statictics.md)
   * [线性回归](02_ml/01_linear_regression.md)
   * [逻辑回归](02_ml/02_logistic_regression.md)
   * [支持向量机](02_ml/03_svm.md)

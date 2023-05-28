@@ -21,6 +21,7 @@ SD1岗位面试时可能会考察OOD，比系统设计更简单一些
 
 
 ## 参考
+- Grokking the Object Oriented Design Interview
 - https://github.com/ycwkatie/OOD-Object-Oriented-Design
 - https://github.com/rajat19/system-design
 - http://www.cs.sjsu.edu/~pearce/modules/lectures/ooa2/ood/index.htm

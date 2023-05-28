@@ -2,6 +2,7 @@
 
 - 基础
   - python中只有小顶堆（min heap），大顶堆可以通过所有元素变为其负数
+
 ```python
 import heapq
 
