@@ -27,6 +27,7 @@ list.insert(0, num)
 ```python
 l = sorted(l)
 l = sorted(l, key = lambda x: x[0])
+l = sorted(l, reverse=True)
 
 l.sort()  # 注意这是in-place
 ```

@@ -267,6 +267,7 @@
   * [贪心](01_leetcode/10_greedy)
     * [121. Best Time to Buy and Sell Stock](01_leetcode/10_greedy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
     * [621. Task Scheduler](01_leetcode/10_greedy/621.%20Task%20Scheduler.md)
+    * [135. Candy](01_leetcode/10_greedy/135.%20Candy.md)
   
   * [前缀和](01_leetcode/11_prefix_sum)
     * [53 Maximum Subarray](01_leetcode/11_prefix_sum/53%20Maximum%20Subarray.md)

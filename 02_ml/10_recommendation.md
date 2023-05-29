@@ -61,6 +61,8 @@ item average_pooling和sum_pooling的区别
 - 面向后链路的一致性建模
 - 各种工业经验trick，包括但不限于特征、结构、loss
 
+### 多任务
+
 ### 监测
 - offline online inconsistency
 - ab test
