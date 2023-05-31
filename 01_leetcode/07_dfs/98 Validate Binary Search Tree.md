@@ -11,7 +11,7 @@ A valid BST is defined as follows:
 
 ## solution
 
-- 注意二叉搜索树定义：根节点大于所有左子树，小于所有右子树。按单个树递归的做法有问题
+- 注意二叉搜索树定义：根节点大于所有左子树，小于所有右子树。单个树递归的做法是无法满足定义的
 
 ```python
 # Definition for a binary tree node.

@@ -69,8 +69,6 @@ Permission management
 retrain plan
 
 
-
-
 ## Reference
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm)
 - https://github.com/Doragd/Algorithm-Practice-in-Industry
@@ -81,3 +79,4 @@ retrain plan
 - https://github.com/jiawei-chen/RecDebiasing
 - [Twitter是怎么做推荐的？马斯克开源代码梳理](https://zhuanlan.zhihu.com/p/618667508) 
 - [架构设计之广告系统架构解密](https://juejin.cn/post/6988408093587537933)
+- [闲鱼搜广推类技术文章汇总](https://zhuanlan.zhihu.com/p/603997107)

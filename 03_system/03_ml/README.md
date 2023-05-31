@@ -10,7 +10,7 @@
 - improve customer churn
 - return items from search engine query
 
-## follow-up问题
+## follow up
 - solution
 - how to scale
   - Scaling general SW system (distributed servers, load balancer, sharding, replication, caching, etc)
