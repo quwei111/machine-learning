@@ -240,6 +240,7 @@ print(merge_sort([5,1,2,4,6,3]))
 
 - 树的前序遍历
 - average O(NLOGN) 最好O(1) 最差O(N^2)
+- 注意左闭右开
 
 ```python
 # quick sort

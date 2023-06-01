@@ -96,8 +96,9 @@ NOSQL
 ## Reference
 - Web Application and Software Architecture 101
 - Groking the system interview
-- Tech blog: uber/ pinterests
-- https://www.techinterviewhandbook.org/system-design/
+- [Uber tech blog](https://www.uber.com/en-SE/blog/)
+- [pinterests tech blog](https://medium.com/pinterest-engineering)
+- [System design interview guide for Software Engineers](https://www.techinterviewhandbook.org/system-design/)
 - https://github.com/madd86/awesome-system-design
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/codersguild/System-Design
