@@ -116,6 +116,7 @@
     * [739 Daily Temperatures](01_leetcode/05_stack_queue/739%20Daily%20Temperatures.md)
     * [901 Online Stock Span](01_leetcode/05_stack_queue/901%20Online%20Stock%20Span.md)
     * [503 Next Greater Element II](01_leetcode/05_stack_queue/503%20Next%20Greater%20Element%20II.md)
+    * * [239. Sliding Window Maximum](01_leetcode/05_stack_queue/239.%20Sliding%20Window%20Maximum.md)
   
   * [优先队列/堆](01_leetcode/06_heap)
     * [973. K Closest Points](01_leetcode/06_heap/973.%20K%20Closest%20Points.md)
@@ -128,8 +129,7 @@
     * [295. Find Median from Data Stream](01_leetcode/06_heap/295.%20Find%20Median%20from%20Data%20Stream.md)
     * [767. Reorganize String](01_leetcode/06_heap/767.%20Reorganize%20String.md)
     * [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](01_leetcode/06_heap/1438.%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.md)
-    * [895. Maximum Frequency Stack](01_leetcode/06_heap/895.%20Maximum%20Frequency%20Stack.md)
-    * [239. Sliding Window Maximum](01_leetcode/06_heap/239.%20Sliding%20Window%20Maximum.md)
+    * [895. Maximum Frequency Stack](01_leetcode/06_heap/895.%20Maximum%20Frequency%20Stack.md)    
   
   * [深度优先DFS](01_leetcode/07_dfs)
     * [543 Diameter of Binary Tree](01_leetcode/07_dfs/543%20Diameter%20of%20Binary%20Tree.md)
