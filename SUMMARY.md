@@ -20,10 +20,10 @@
     
   * [双指针](01_leetcode/01_two_pointers)
     * [11. Container With Most Water](01_leetcode/01_two_pointers/11.%20Container%20With%20Most%20Water.md)
-    * [75 Sort Colors](01_leetcode/01_two_pointers/75.%20Sort_Colors.md)
+    * [75 Sort Colors](01_leetcode/01_two_pointers/75.%20Sort%20Colors.md)
     * [209. Minimum Size Subarray Sum](01_leetcode/01_two_pointers/209.%20Minimum%20Size%20Subarray%20Sum.md)
     * [409. Longest Palindrome](01_leetcode/01_two_pointers/409.%20Longest%20Palindrome.md)
-    * [125. Valid Palindrome (I、II)](01_leetcode/01_two_pointers/125.%20Valid%20Palindrome%20(I、II).md)
+    * [125. Valid Palindrome](01_leetcode/01_two_pointers/125.%20Valid%20Palindrome.md)
     * [5. Longest Palindromic Substring](01_leetcode/01_two_pointers/5.%20Longest%20Palindromic%20Substring.md)
     * [647. Palindromic Substrings](01_leetcode/01_two_pointers/647.%20Palindromic%20Substrings.md)
     * [167. Two Sum II - Input array is sorted](01_leetcode/01_two_pointers/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
@@ -120,7 +120,6 @@
   
   * [优先队列/堆](01_leetcode/06_heap)
     * [973. K Closest Points](01_leetcode/06_heap/973.%20K%20Closest%20Points.md)
-    * [347. Top k Largest Elements](01_leetcode/06_heap/347.%20Top%20k%20Largest%20Elements.md)
     * [23. Merge K Sorted Lists](01_leetcode/06_heap/23.%20Merge%20K%20Sorted%20Lists.md)
     * [264. Ugly Number II](01_leetcode/06_heap/264.%20Ugly%20Number%20II.md)
     * [1086. High Five](01_leetcode/06_heap/1086.%20High%20Five.md)    

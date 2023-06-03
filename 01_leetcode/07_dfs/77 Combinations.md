@@ -10,6 +10,7 @@ You may return the answer in any order.
 回溯
 - 整体输出结果、单次尝试的path、本次选择的选项
 - 本题回溯时，注意不需要重复项，通过控制**开始index**不从前面选
+  - index: 下一层for循环搜索的起始位置
 
 ```python
 class Solution:

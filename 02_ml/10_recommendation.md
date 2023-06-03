@@ -19,6 +19,7 @@ learning to rank 流程三大模式（point-wise、pair-wise、list-wise），�
 - 粗排：**双塔**
 - 精排：**MLP**
 - CTR预估，如LR、GBDT、FM、FFM、DNN、Wide&Deep、DCN、DeepFM、DIN、DFN
+  - Binary Cross Entropy Loss, Pairwise LTR Loss
 - 多目标多场景：MMOE
 - 特征：user, item, context
 - light ranking/ heavy ranking

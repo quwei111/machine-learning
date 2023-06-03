@@ -105,9 +105,13 @@ s.strip()
 ```
 
 - 字符串 
-ord: 
+
 ```python
+# ord
 ord(s[0])/ s[0].isdigit()
+
+# 小写
+s.lower()
 ```
 
 - 两层循环中的break，break的是相应层的循环
