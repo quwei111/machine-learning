@@ -29,6 +29,11 @@
 - Question 4: For each day, calculate a 30day rolling average purchase amount.
 - Question: what was the friend request acceptance rate for requests sent out on 2018-01-01?
 
+## 实际
+关键配置参数
+- innodb_buffer_pool_size、sync_binlog、innodb_log_file_siz
+- SQL explain 优化
+- python\scala 三个连续双引号表示跨行字符串，.format() 
 
 ## Reference
 - SQL ZOO 
@@ -41,3 +46,7 @@
 - selectstarsql.com
 - https://github.com/oleg-agapov/data-engineering-book/blob/master/book/2-beginner-path/2-2-sql-for-beginners/sql-1.md
 - 18 best sql online learning resources
+- [数据分析人员需要掌握sql到什么程度？ - 无眠的回答 - 知乎](https://www.zhihu.com/question/379694223/answer/1118850805)
+- https://zhuanlan.zhihu.com/p/147344996
+- [Hive 优化](https://zhuanlan.zhihu.com/p/102475087)
+- [https://github.com/siqichen-usc/LeetCode-SQL-Summary](https://github.com/siqichen-usc/LeetCode-SQL-Summary)

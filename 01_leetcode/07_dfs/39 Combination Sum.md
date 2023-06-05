@@ -41,7 +41,8 @@ class Solution:
 
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 - 无放回，控制开始的index每次i+1，而不是i
-- 控制重复，采用排序加剪枝
+- 控制重复，采用排序加剪枝。for循环横向遍历，对同一层使用过的元素跳过
+
 ```python
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:

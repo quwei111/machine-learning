@@ -8,7 +8,7 @@
 ## 考察内容
 
 - [leetcode](./01_leetcode/README.md)
-- [机器学习知识](./02_ml/README.md)
+- [机器学习](./02_ml/README.md)
 - [系统设计](./03_system/README.md)
 - [行为面试](./04_bq/README.md)
 

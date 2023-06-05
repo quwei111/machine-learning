@@ -25,7 +25,7 @@ class Solution:
             res.append(path[:])  # [:]和下面的copy保留一个即可
             return
         
-        for i in range(start, n+1):            
+        for i in range(start, n+1):  # 本层集合中的元素，递归N叉树，树节点孩子数量就是集合的大小         
             path.append(i)
             self.dfs(res, path.copy(), n, k, i+1)
             path.pop()

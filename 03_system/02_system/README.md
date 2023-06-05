@@ -72,6 +72,13 @@ redis
 数据库规范化(Normalization)
 - Normalisation Form(NF)，其中包括第一范式、第二范式、第三范式、第四范式以及第五范式(1NF、2NF、3NF、4NF、5NF)
 
+网络基础
+
+Restful API
+
+HTTP/HTTPS
+
+RPC
 
 ### SQL and NoSQL
 
