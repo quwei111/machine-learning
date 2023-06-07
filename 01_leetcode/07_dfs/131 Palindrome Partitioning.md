@@ -30,3 +30,10 @@ class Solution:
             else:
                 continue
 ```
+
+## follow up
+[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/description/)
+
+```python
+
+```
