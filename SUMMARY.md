@@ -180,7 +180,7 @@
     * [491. Non-decreasing Subsequences](01_leetcode/07_dfs/491.%20Non-decreasing%20Subsequences.md)
     * [698 Partition to K Equal Sum Subsets](01_leetcode/07_dfs/698%20Partition%20to%20K%20Equal%20Sum%20Subsets.md)
     * [526 Beautiful Arrangement](01_leetcode/07_dfs/526%20Beautiful%20Arrangement.md)
-    * [139 Word Break II](01_leetcode/07_dfs/139%20Word%20Break%20II.md)
+    * [139 Word Break](01_leetcode/07_dfs/139%20Word%20Break.md)
     * [377 Combination Sum IV](01_leetcode/07_dfs/377%20Combination%20Sum%20IV.md)
     * [1235 Maximum Profit in Job Scheduling](01_leetcode/07_dfs/1235%20Maximum%20Profit%20in%20Job%20Scheduling.md)
     * [1335 Minimum Difficulty of a Job Schedule](01_leetcode/07_dfs/1335%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.md)

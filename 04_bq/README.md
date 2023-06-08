@@ -25,7 +25,7 @@
 - challenging project
 - think differently
 - simple solution to solve a problem
-- tight deadline
+- tell me a time when you have worked against tight ddl and didn't have time to consider all options
 
 - 怎么带团队
 - 怎么plan项目
