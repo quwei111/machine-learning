@@ -6,8 +6,8 @@
   - 思路：数学归纳法，base case
 
 - 类型
-  - top-down 递归方式
-  - bottom-up 
+  - top-down (记忆化dfs)
+  - bottom-up (循环)
 
 - 类型
   - 记忆化搜索（DFS + Memoization Search）
