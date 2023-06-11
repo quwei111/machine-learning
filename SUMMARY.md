@@ -237,8 +237,6 @@
     * [354 Russian Doll Envelopes](01_leetcode/09_dynamic_program/354%20Russian%20Doll%20Envelopes.md)
     * [256 Paint House](01_leetcode/09_dynamic_program/256%20Paint%20House.md)
     * [121 Best Time to Buy and Sell Stock](01_leetcode/09_dynamic_program/121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
-    * [55 Jump Game](01_leetcode/09_dynamic_program/55%20Jump%20Game.md)
-    * [45 Jump Game II](01_leetcode/09_dynamic_program/45%20Jump%20Game%20II.md)
     * [132 Palindrome Partitioning II](01_leetcode/09_dynamic_program/132%20Palindrome%20Partitioning%20II.md)
     * [312 Burst Balloons](01_leetcode/09_dynamic_program/312%20Burst%20Balloons.md)
     * [1143 Longest Common Subsequence](01_leetcode/09_dynamic_program/1143%20Longest%20Common%20Subsequence.md)
@@ -271,6 +269,7 @@
     * [135. Candy](01_leetcode/10_greedy/135.%20Candy.md)
     * [376. Wiggle Subsequence](01_leetcode/10_greedy/376.%20Wiggle%20Subsequence.md)
     * [53. Maximum Subarray](01_leetcode/10_greedy/53.%20Maximum%20Subarray.md)
+    * [55 Jump Game](01_leetcode/10_greedy/55%20Jump%20Game.md)
   
   * [前缀和](01_leetcode/11_prefix_sum)
     * [53 Maximum Subarray](01_leetcode/11_prefix_sum/53%20Maximum%20Subarray.md)
