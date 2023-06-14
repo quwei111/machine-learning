@@ -270,6 +270,10 @@
     * [376. Wiggle Subsequence](01_leetcode/10_greedy/376.%20Wiggle%20Subsequence.md)
     * [53. Maximum Subarray](01_leetcode/10_greedy/53.%20Maximum%20Subarray.md)
     * [55 Jump Game](01_leetcode/10_greedy/55%20Jump%20Game.md)
+    * [134. Gas Station](01_leetcode/10_greedy/134.%20Gas%20Station.md)
+    * [1005. Maximize Sum Of Array After K Negations](01_leetcode/10_greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)
+    * [406. Queue Reconstruction by Height](01_leetcode/10_greedy/406.%20Queue%20Reconstruction%20by%20Height.md)
+    * [452. Minimum Number of Arrows to Burst Balloons](01_leetcode/10_greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
   
   * [前缀和](01_leetcode/11_prefix_sum)
     * [53 Maximum Subarray](01_leetcode/11_prefix_sum/53%20Maximum%20Subarray.md)
