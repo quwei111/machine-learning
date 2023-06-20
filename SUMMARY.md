@@ -229,7 +229,7 @@
     * [403 Frog Jump](01_leetcode/09_dynamic_program/403%20Frog%20Jump.md)
     * [329 Longest Increasing Path in a Matrix](01_leetcode/09_dynamic_program/329%20Longest%20Increasing%20Path%20in%20a%20Matrix.md)
     * [674 Longest Continuous Increasing Subsequence](01_leetcode/09_dynamic_program/674%20Longest%20Continuous%20Increasing%20Subsequence.md)
-    * [62 Unique Paths II](01_leetcode/09_dynamic_program/62%20Unique%20Paths%20II.md)
+    * [62 Unique Paths](01_leetcode/09_dynamic_program/62%20Unique%20Paths.md)
     * [70 Climbing Stairs](01_leetcode/09_dynamic_program/70%20Climbing%20Stairs.md)
     * [64 Minimum Path Sum](01_leetcode/09_dynamic_program/64%20Minimum%20Path%20Sum.md)
     * [368 Largest Divisible Subset](01_leetcode/09_dynamic_program/368%20Largest%20Divisible%20Subset.md)
@@ -274,6 +274,7 @@
     * [1005. Maximize Sum Of Array After K Negations](01_leetcode/10_greedy/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations.md)
     * [406. Queue Reconstruction by Height](01_leetcode/10_greedy/406.%20Queue%20Reconstruction%20by%20Height.md)
     * [452. Minimum Number of Arrows to Burst Balloons](01_leetcode/10_greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
+    * [738. Monotone Increasing Digits](01_leetcode/10_greedy/738.%20Monotone%20Increasing%20Digits.md)
   
   * [前缀和](01_leetcode/11_prefix_sum)
     * [53 Maximum Subarray](01_leetcode/11_prefix_sum/53%20Maximum%20Subarray.md)

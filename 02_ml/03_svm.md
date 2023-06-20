@@ -1,6 +1,7 @@
 # 支持向量机
 
-对偶问题 KKT条件 软边界
+对偶问题 KKT条件 软边界 核方法
+
 
 ## what's the difference between logistic regression and SVM
 - loss type, logistic loss for LR, hinge loss for SVM

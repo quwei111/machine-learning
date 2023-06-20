@@ -16,6 +16,11 @@
 
 - [RESUMES and COVER LETTERS - Harvard University](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 
+## 投递渠道
+
+- 尽量找内推
+- 尽量避免只通过网申系统投递简历
+
 ## CS/ML自学指南
 
 - [https://github.com/PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
