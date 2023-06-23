@@ -47,7 +47,7 @@ learning to rank 流程三大模式（point-wise、pair-wise、list-wise），�
 - https://zhuanlan.zhihu.com/p/518175104
 
 ### 冷启动
-
+- user冷启动影响留存，item冷启动影响生态。关键是利用好side info
 
 ### 长尾问题
 

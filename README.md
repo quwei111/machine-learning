@@ -12,12 +12,12 @@
 - [系统设计](./03_system/README.md)
 - [行为面试](./04_bq/README.md)
 
-## 简历准备
+## 简历
 
+简历优化
 - [RESUMES and COVER LETTERS - Harvard University](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
 
-## 投递渠道
-
+投递渠道
 - 尽量找内推
 - 尽量避免只通过网申系统投递简历
 
