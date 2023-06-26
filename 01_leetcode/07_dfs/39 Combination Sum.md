@@ -91,3 +91,6 @@ class Solution:
             self.dfs(k, n-val, res, path, val+1)
             path.pop()
 ```
+
+[377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+- [动态规划](../09_dynamic_program/377%20Combination%20Sum%20IV.md)

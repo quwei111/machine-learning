@@ -218,7 +218,6 @@
     * [994. Rotting Oranges](01_leetcode/08_bfs/994.%20Rotting%20Oranges.md)
   
   * [动态规划](01_leetcode/09_dynamic_program)
-    * [139 Word Break II](01_leetcode/09_dynamic_program/139%20Word%20Break%20II.md)
     * [72 Edit Distance](01_leetcode/09_dynamic_program/72%20Edit%20Distance.md)
     * [377 Combination Sum IV](01_leetcode/09_dynamic_program/377%20Combination%20Sum%20IV.md)
     * [1235 Maximum Profit in Job Scheduling](01_leetcode/09_dynamic_program/1235%20Maximum%20Profit%20in%20Job%20Scheduling.md)

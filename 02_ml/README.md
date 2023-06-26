@@ -14,6 +14,7 @@
   - 手写SGD
   - 视觉：手写iou/nms
   - NLP: 手写tokenizer
+    - [BPE tokenizer](https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt)
 
 
 - 延伸

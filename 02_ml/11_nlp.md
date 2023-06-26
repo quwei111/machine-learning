@@ -22,10 +22,6 @@
 
 关系抽取后的结果：保存Neo4j
 
-## 问答
-- 为啥文本不用batch norm要用layer norm
-- transformer计算kvq的含义
-
 
 ## 文本摘要 Text summarization
 - 分为抽象式摘要（abstractive summarization）和抽取式摘要(extractive summarization)
@@ -47,6 +43,14 @@ key phrase generation
 
 ## Transformers
 - 三类模型：bert（自编码）、gpt（自回归）、bart（编码-解码）
+
+
+## 问答
+- 为啥文本不用batch norm要用layer norm
+- transformer计算kvq的含义
+- 如何‌估计微调一个language model的成本是多少
+- quantization的概念，解释一下如何工作的
+- 如何克服固定context window的限制，能不能有100K的context window
 
 
 ## 参考与继续阅读
