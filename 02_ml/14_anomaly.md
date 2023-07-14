@@ -25,3 +25,4 @@ PCA
 
 ## reference
 - [Warden: Real Time Anomaly Detection at Pinterest](https://medium.com/pinterest-engineering/warden-real-time-anomaly-detection-at-pinterest-210c122f6afa)
+- [Tubi 时间序列 KPI 的异常值检测 - Tubi 中国团队的文章 - 知乎](https://zhuanlan.zhihu.com/p/642174241)

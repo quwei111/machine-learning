@@ -51,7 +51,10 @@ key phrase generation
 - 如何‌估计微调一个language model的成本是多少
 - quantization的概念，解释一下如何工作的
 - 如何克服固定context window的限制，能不能有100K的context window
-
+- tokenizer
+  - word level
+  - char level
+  - subword level: BPE, Bytes BPE, WordPiece, Unigram, SentencePiece,
 
 ## 参考与继续阅读
 - [CS224N](https://web.stanford.edu/class/cs224n/index.html#schedule)
@@ -60,3 +63,4 @@ key phrase generation
 - [Text clustering with K-means and tf-idf](https://medium.com/@MSalnikov/text-clustering-with-k-means-and-tf-idf-f099bcf95183)
 - https://github.com/wangle1218/KBQA-for-Diagnosis
 - https://github.com/wangle1218/faq-qa-sys-v2
+- [beam search的简单实现（面试版） - lumino的文章 - 知乎](https://zhuanlan.zhihu.com/p/623540053)

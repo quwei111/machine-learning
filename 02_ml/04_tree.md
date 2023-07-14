@@ -92,4 +92,3 @@ class Decision_tree():
 
 ## 参考
 - [从sklearn源码简析GBDT](https://mp.weixin.qq.com/s/iKxv9-fHJp2DFQyeWlvTgQ)
-- 
