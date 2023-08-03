@@ -11,3 +11,8 @@
 - [DDIA]()
 - [CMU 15721: advance database]()
 - [CMU DLSys]()
+
+- [grokking system interview]
+- [Alex Xu]
+- [system design primer]
+- [https://learn.microsoft.com/en-us/azure/architecture/patterns/]

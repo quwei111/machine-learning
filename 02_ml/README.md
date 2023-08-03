@@ -1,6 +1,7 @@
 # 机器学习
 
 ## 要求
+- 考察范围包括coding、breadth/width, problem solving/application
 - 熟悉常见模型的原理、代码、优缺点、应用
 
 ## 实例
@@ -34,9 +35,21 @@
 
 
 - 数据收集
+  - production data, label
+  - Internet dataset
 
 
 - 模型选择
 
 
 - 推荐，scale\abtesting\trouble shooting
+
+- 怎么提升模型的latency
+  - 小模型
+  - 知识蒸馏
+  - squeeze model to 8bit or 4bit
+
+
+## 项目
+- 技术细节、流程、遇到的困难怎么解决、impact、再来一次如何改善
+- 如果对项目抽象成解决的问题，然后改变条件，我们应该应该如何应对

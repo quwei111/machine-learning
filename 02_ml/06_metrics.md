@@ -18,9 +18,14 @@ average precision
 - [sklearn metrics-AP](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html)
 
 
+retrieval rate 
+
+
 ## 问题
 
 准确率的局限性
 - 标签不平衡时
 
 SMOTE步骤
+
+[Evaluation Metrics for Language Modeling](https://thegradient.pub/understanding-evaluation-metrics-for-language-models/)

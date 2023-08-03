@@ -55,6 +55,11 @@ key phrase generation
   - word level
   - char level
   - subword level: BPE, Bytes BPE, WordPiece, Unigram, SentencePiece,
+- query理解
+  - NER 品牌、品类等
+  - 构建实体库
+  - 提升：增强，构造邻居词，共现的实体补充文本
+
 
 ## 参考与继续阅读
 - [CS224N](https://web.stanford.edu/class/cs224n/index.html#schedule)
