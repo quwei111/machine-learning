@@ -21,6 +21,11 @@
   - 减少交互次数（批量提交）
   - 设置合理的Fetch Size（数据每次返回给客户端的条数）
 
+- where和having之后都是筛选条件
+  - where在group by前， having在group by 之后
+  - 聚合函数（avg、sum、max、min、count），不能作为条件放在where之后，但可以放在having之后
+
+
 ## 常见问题
 - What is the difference between union and union all? where and having?
 - Question 1: List out the top 3 names of the users who have the most purchase amount on '2018-01-01'

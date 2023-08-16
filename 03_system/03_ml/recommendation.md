@@ -3,6 +3,7 @@
 [推荐系统知识](../../02_ml/10_recommendation.md)
 
 ## 实例：design ads recommendation system for amazon
+- 加cache
 
 ### Functional requirement
 which part should we focus on
@@ -12,6 +13,7 @@ Ranking / Localization
 Permission management
 
 ### NonFunctional requirement
+
 - MVP and Non-MVP
 - users should have a real time/ near real time / small latency experience Idempotency/ exact-once/ at-least-once/ at-most-once
 
@@ -67,6 +69,8 @@ Permission management
 
 例如怎么加user and item metadata
 retrain plan
+
+model debugging, offline online inconsistency, light ranking, ab test, heavy ranking, two tower
 
 
 ## Reference

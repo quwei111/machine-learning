@@ -1,3 +1,4 @@
+# 大数据
 
 ## Design
 设计一个操作系统内存管理分页分段的API
@@ -17,3 +18,4 @@ Azkaban: 定时执行计算任务
 
 ## 参考
 - [udemy-mastering databricks & apache spark-build ETL data pipeline]()
+- [请用通俗形象的语言解释下：Spark中的RDD到底是什么意思？ - 木鸟杂记的回答 - 知乎](https://www.zhihu.com/question/37437257/answer/2571373097)

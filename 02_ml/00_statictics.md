@@ -2,6 +2,8 @@
 
 P-value, correlation matrix, t-test, VIF, R2, adjusted R2，ANOVA，F-test，Null hypothesis testing
 
+## 中心极限定理
+
 ## z检验
 
 ## t检验

@@ -55,3 +55,4 @@
 - https://chenyilong.notion.site/Behavioral-based-interviewing-Competency-Based-Interviewing-e6d18711a4114bc1926820fc537b5af4
 - https://www.youtube.com/@Fred_Talk
 - https://www.youtube.com/@CareerSchool
+- https://www.1point3acres.com/bbs/thread-895663-1-1.html

@@ -1,5 +1,8 @@
 # 机器学习系统设计
 
+- 1、建模design, 包括优化目标，feature，data，模型结构，评价标准等
+- 2、系统design, 偏重于在线serve大模型，包括feature store, ANN, ETL pipeline, MLOps等
+
 ## 场景
 - Youtube recommendation/doordash search box/auto suggestion
 - design youtube violent content detection system
