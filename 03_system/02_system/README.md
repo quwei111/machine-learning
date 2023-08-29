@@ -10,7 +10,7 @@
 
 
 ## 常见面试问题
-- Design a URL shortener (e.g. Bitly)- 
+- Design a URL shortener (e.g. Bitly)
 - Design a video watching website (e.g. YouTube)
 - Design a chatting service (e.g. Telegram, Slack, Discord)
 - Design a file sharing service (e.g. Google Drive, Dropbox)

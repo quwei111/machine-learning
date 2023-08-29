@@ -1,16 +1,34 @@
 # 统计
 
-P-value, correlation matrix, t-test, VIF, R2, adjusted R2，ANOVA，F-test，Null hypothesis testing
 
-## 中心极限定理
+- 中心极限定理
 
-## z检验
+    中心极限定理指的是给定一个任意分布的总体。每次从这些总体中随机抽取 n 个抽样，一共抽 m 次。 然后把这 m 组抽样分别求出平均值。 这些平均值的分布接近正态分布。
 
-## t检验
+- z检验
 
-## confidence interval
 
-## 蒙特卡洛
+- t检验/t-test
+
+- F-test
+
+
+- Null hypothesis testing
+
+- P-value
+
+- confidence interval
+
+- correlation matrix
+
+- VIF
+
+- R2/ adjusted R2
+
+- ANOVA
+
+- 蒙特卡洛
+
 
 
 ## AB test
@@ -43,3 +61,4 @@ If given the above 20% p-value, the product manager still decides to launch this
 - [Lets Python do AB testing analysis](https://github.com/tlentali/leab)
 - [https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
 - [https://github.com/kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+- [概率论——大数定律与中心极限定理](https://zhuanlan.zhihu.com/p/259280292)

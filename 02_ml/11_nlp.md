@@ -69,3 +69,4 @@ key phrase generation
 - https://github.com/wangle1218/KBQA-for-Diagnosis
 - https://github.com/wangle1218/faq-qa-sys-v2
 - [beam search的简单实现（面试版） - lumino的文章 - 知乎](https://zhuanlan.zhihu.com/p/623540053)
+- [LLM+Embedding构建问答系统的局限性及优化方案](https://zhuanlan.zhihu.com/p/641132245)
