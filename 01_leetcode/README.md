@@ -6,7 +6,7 @@
 - 1、初步掌握考察的常见数据结构和算法，尤其是常见类型的模版
 - 2、拿到问题，首先从解决问题角度入手，然后从模板中提供线索。模版的基础上，不断强化练习。按tag刷题
 - 3、真正融会贯通，结合问题交流、复杂度分析、头脑测试，刷题量达到满意要求
-- 4、面试前，针对面试公司的tag或面经进行重点练习
+- 4、面试前，针对面试公司的tag或面经进行重点练习。自己练习时也可以边说边写
 
 
 ## 面试解题过程
@@ -19,7 +19,7 @@
 - 写完代码后，进行test的过程
 - 最后给出复杂度分析
 
-### 给出问题后第一步确认的参考list
+### 给出问题后第一步确认需求可参考list
 
 - input/output type
 - input size 以及edge cases of null or empty
@@ -46,13 +46,13 @@
 - [LeetCode 101：和你一起你轻松刷题](https://github.com/changgyhub/leetcode_101/)
 - [Leetcode面试高频题分类刷题总结](https://zhuanlan.zhihu.com/p/349940945)
 - [代码随想录](https://programmercarl.com/)
-- [blind75]
-- [Neetcode300]
+- [blind75](https://leetcode.com/list/xi4ci4ig/)
+- [Neetcode300](https://neetcode.io/practice)
 
 
 ## 学习资料
 
-基础
+### 基础
 - [Introduction to Computer Science - Harvard CS50x](https://cs50.harvard.edu/x/)
 - [Structure and Interpretation of Computer Programs - UC Berkeley CS 61A](https://cs61a.org/)
 - [How to Design Programs](https://book.douban.com/subject/30175977/)
@@ -62,13 +62,13 @@
 - [UNIX 编程艺术](https://book.douban.com/subject/11609943/)
 - [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
 
-数据结构和算法
+### 数据结构和算法
 - [数据结构- 学堂在线 - 邓俊辉](https://next.xuetangx.com/course/THU08091000384/)
 - [算法 - Stanford](https://www.coursera.org/specializations/algorithms)
 - [Algorithms](https://book.douban.com/subject/1996256/)
 - [算法导论 - CLRS](https://book.douban.com/subject/20432061/)
 
-操作系统
+### 操作系统
 - [Operating Systems and System Programming - UC Berkeley CS 162](https://github.com/Berkeley-CS162)
 - [Operating System Engineering - MIT 6.828](https://pdos.csail.mit.edu/6.828/)
 - [编码：隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/)
@@ -78,10 +78,10 @@
 - [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)
 - [Operating System Concepts](https://book.douban.com/subject/10076960/)
 
-Web开发与系统设计
+### Web开发与系统设计
 - [Introduction to Computer Networking - Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
-分布式
+### 分布式
 - [Distributed Systems - MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [Talent Plan | PingCAP University](https://university.pingcap.com/talent-plan/)
 - [数据密集型应用系统设计](https://book.douban.com/subject/30329536/)

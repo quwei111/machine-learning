@@ -13,7 +13,7 @@
 - [CMU 15721: advance database]()
 - [CMU DLSys]()
 
-- [grokking system interview]
-- [Alex Xu]
-- [system design primer]
-- [https://learn.microsoft.com/en-us/azure/architecture/patterns/]
+- [grokking system interview](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+- [Alex Xu-system design interview](https://www.amazon.in/System-Design-Interview-Insiders-Guide-ebook/dp/B08B3FWYBX)
+- [system design primer](https://github.com/donnemartin/system-design-primer)
+- [https://learn.microsoft.com/en-us/azure/architecture/patterns/](https://learn.microsoft.com/en-us/azure/architecture/patterns/)

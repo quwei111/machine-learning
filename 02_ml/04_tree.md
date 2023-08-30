@@ -90,5 +90,11 @@ class Decision_tree():
     pass
 ```
 
+
+## 问题
+- xgboost的cache awareness如何提高计算效率？
+  - 
+
+
 ## 参考
 - [从sklearn源码简析GBDT](https://mp.weixin.qq.com/s/iKxv9-fHJp2DFQyeWlvTgQ)

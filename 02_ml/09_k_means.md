@@ -3,6 +3,7 @@
 
 ## 八股
 - k means 如何选择k 
+  - scree plot: 横坐标n_cluster, 纵坐标intra-cluster variance
 
 - 怎么判断clustering效果好不好
 

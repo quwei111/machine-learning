@@ -148,6 +148,9 @@ if __name__ == "__main__":
 
 检查预测值与真实值的residual残差是否为高斯分布
 
+- Lasso regression如何导致参数稀疏
+  - 图像切点
+  - 朗格朗日优化
 
 ## 参考
 - https://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/04/lecture-04.pdf
