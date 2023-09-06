@@ -62,6 +62,7 @@ key phrase generation
 
 
 ## 参考与继续阅读
+- [邱锡鹏: nlp-beginner](https://github.com/FudanNLP/nlp-beginner)
 - [CS224N](https://web.stanford.edu/class/cs224n/index.html#schedule)
 - [information-retrieval-book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 - [前处理 Byte Pair Encoder](https://github.com/karpathy/minGPT/blob/master/mingpt/bpe.py)
