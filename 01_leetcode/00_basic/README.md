@@ -52,7 +52,7 @@ depuq.popleft()
 - 定义二维列表
 ```python
 matrix = [[0 for _ in range(col)] for _ in range(row)]
-matrix1 = [[0]*col for _ in range(row) ]
+matrix1 = [[0] * col for _ in range(row) ]
 
 # 错误，都是引用导致值相同
 [[0] * col] * row
